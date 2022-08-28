@@ -1,11 +1,13 @@
 # This script makes and publishes the lecture book
 # Author:
-# 	Ilias Bilionis
+# 	Adam Zvolanek
 # Date:
-# 	5/9/2022
+# 	8/28/2022
+# From:
+# https://jupyterbook.org/en/stable/sphinx/index.html
 
 # Make it
-jupyter-book build lecturebook --all
+jupyter-book config sphinx lecturebook
 
 # Publish it
-ghp-import -n -p -f lecturebook/_build/html
+sphinx-build lecuturebook lecturebook/_build/html -b html

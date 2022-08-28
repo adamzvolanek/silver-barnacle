@@ -1,0 +1,16 @@
+# in _config.yml
+title: "Introduction to Computing"
+execute:
+  execute_notebooks: "off"
+author: "Adam Zvolanek"
+repository:
+  url: "https://github.com/adamzvolanek/silver-barnacle/"
+  path_to_book: "lecturebook"
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  colab_url: "https://colab.research.google.com"
+bibtex_bibfiles:
+  - references.bib
+sphinx:
+  config:
+    bibtex_reference_style: author_year
