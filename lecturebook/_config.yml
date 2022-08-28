@@ -2,9 +2,10 @@
 title: "Introduction to Computing"
 execute:
   execute_notebooks: "off"
-author: "<Insert Author>"
+author: "Adam Zvolanek"
 repository:
   url: "https://github.com/adamzvolanek/silver-barnacle/"
+  path_to_book: "lecturebook"
 launch_buttons:
   notebook_interface: "jupyterlab"
   colab_url: "https://colab.research.google.com"
