@@ -4,8 +4,7 @@ execute:
   execute_notebooks: "off"
 author: "<Insert Author>"
 repository:
-  url: "https://github.com/PredictiveScienceLab/data-analytics-se"
-  path_to_book: "lecturebook"
+  url: "https://github.com/adamzvolanek/silver-barnacle/"
 launch_buttons:
   notebook_interface: "jupyterlab"
   colab_url: "https://colab.research.google.com"
