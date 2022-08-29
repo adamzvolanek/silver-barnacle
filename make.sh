@@ -7,10 +7,10 @@
 # https://jupyterbook.org/en/stable/sphinx/index.html
 
 # Make it
-jupyter-book build lecturebook --all --path-output _build
+jupyter-book build lecturebook --all
 
 # Publish it
-ghp-import -p -b gh-pages lecturebook/_build/html
+ghp-import -n -p -b gh-pages lecturebook/_build/html
 
 # Clean Up
 jupyter-book clean -a lecturebook
