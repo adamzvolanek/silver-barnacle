@@ -2,7 +2,6 @@
 
 These are the lecture notes for Computing 101 that are to act as a reference for students and as an outline for the semester.
 
-
 ## Course description
 
 This course provides an introduction to the basics of computing including:
@@ -22,7 +21,7 @@ After completing this course, you will be able to:
 + Security
     + Overview
 + File Management
-    + How files are organized in comptuers
+    + How files are organized in computers
 + Internet
     + URLs, Search Engines, Cookies, Protocols
 + Intro to Programming
@@ -38,5 +37,5 @@ After completing this course, you will be able to:
 + Basics of using a mouse and keyboard.
 + Desire to learn computer literacy, office software, and basic computer hardware troubleshooting.
 
-## What if I am worried about meeting prerequisites?
+### What if I am worried about meeting prerequisites?
 We are happy to accommodate and provide additional learning opportunities for those concerned of meeting any prerequisites. This course is intended for those with elementary knowledge and to gain confidence in achieving basic computer literacy.

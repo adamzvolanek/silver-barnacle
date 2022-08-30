@@ -1,5 +1,5 @@
 # in _config.yml
-title: "Introduction to Computing"
+title: "Introduction to Computing 101"
 execute:
   execute_notebooks: "off"
 author: "Adam Zvolanek"
