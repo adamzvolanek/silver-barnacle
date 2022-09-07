@@ -8,7 +8,7 @@ chapters:
       sections:
       - file: lecture01/Section1_1
       - file: lecture01/Section1_2
-  - file: Hardware
+  - file: hardware
     sections:
     - file: lecture02/index
       sections:
