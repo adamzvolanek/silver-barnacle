@@ -1,4 +1,4 @@
-# silver-barnacle (Computing Course 101)
+# Computing Course 101 <sub>(Codenamed: silver-barnacle)</sub>
 
 This is the lecturebook repository for the course "Computering 101". The course is hybrid where lecture will be held in person however students are welcome to reference the lecturebook online as needed. The lecturebook is comprised of both the structure, layout, and timeline of material to be covered, and any executable code to accompany learning.
 
@@ -15,15 +15,22 @@ The link to the lecture book can be found [here](https://adamzvolanek.github.io/
 
 * [Git](https://git-scm.com)
 * [Python](https://www.python.org)
+* [Jupyter](https://jupyter.org/)
 * [Jupyter-Book](https://jupyterbook.org/en/stable/intro.html)
 
-### Installing (pending-update)
+### Installing Programs
+Please use best judgement when downloading installers and programs to your local computer. Recommended items are needed if wanting to build Jupyter-Books with code.
 
+#### Required
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* [Python 3.X](https://www.python.org/downloads/)
+* [Python 3.10.X](https://www.python.org/downloads/)
   * Windows users: WSL may be required
-* Jupyter
-  * Jupyter for Windows:
+* Your favorite code editor.
+
+#### Recommended
+* [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
+* [Notepad++](https://notepad-plus-plus.org/) does not support live view of markdown however supports the markdown languge in terms of syntax highlighting.
+  * There are many online based markdown editors for use in tandem like [StackEdit](https://stackedit.io/), [Dillinger](https://dillinger.io/), or if you prefer a local installation of [VS Code](https://code.visualstudio.com/).
 
 ### Executing program
 
@@ -33,7 +40,7 @@ Once any updates are complete, including new pages in markdown or jupyter-book, 
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info:
 
 ~ Adam Zvolanek 
 

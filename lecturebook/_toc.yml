@@ -14,4 +14,35 @@ chapters:
       sections:
       - file: lecture02/Section2_1
       - file: lecture02/Section2_2
+  - file: networking
+    sections:
+    - file: lecture03/index
+      sections:
+      - file: lecture03/Section3_1
+      - file: lecture03/Section3_2
+      - file: lecture03/Section3_3
+  - file: software
+    sections:
+    - file: lecture04/index
+      sections:
+      - file: lecture04/Section4_1
+      - file: lecture04/Section4_2
+  - file: filemanagement
+    sections:
+    - file: lecture05/index
+      sections:
+      - file: lecture05/Section5_1
+      - file: lecture05/Section5_2
+  - file: internet
+    sections:
+    - file: lecture06/index
+      sections:
+      - file: lecture06/Section6_1
+      - file: lecture06/Section6_2
+  - file: security
+    sections:
+    - file: lecture07/index
+      sections:
+      - file: lecture07/Section7_1
+      - file: lecture07/Section7_2
   - file: bibliography
