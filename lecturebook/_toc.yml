@@ -45,4 +45,9 @@ chapters:
       sections:
       - file: lecture07/Section7_1
       - file: lecture07/Section7_2
+  - file: troubleshooting
+    sections:
+      - file: lecture08/index
+        sections:
+        - file: lecture08/Section8_1
   - file: bibliography
