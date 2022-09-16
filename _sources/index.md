@@ -11,19 +11,19 @@ After completing this course, you will be able to:
 + What is a computer, and their brief history
 + Hardware
     + CPU, RAM, Ports
-+ Software
-    + Operating Systems, Binary, Memories
 + Networking
     + ISPs, IP addresses, DNS
     + Networking Traffic Outlined (Difference between LAN and Internet)
     + Types of cabling and standards
-+ Troubleshooting
-+ Security
-    + Overview
++ Software
+    + Operating Systems, Binary, Memories
 + File Management
     + How files are organized in computers
 + Internet
     + URLs, Search Engines, Cookies, Protocols
++ Security
+    + Overview
++ Troubleshooting
 + Intro to Programming
     + Show-case of what it is, what it does
 + Social / Ethics
