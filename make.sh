@@ -22,7 +22,7 @@ do
       echo '---------------------------'
       echo 'Jupyter Book is starting the building process'
       sleep 1
-      jupyter-book build lecturebook --all
+      jupyter-book -v build lecturebook --all
 
       # Publish it
       echo '---------------------------'
@@ -36,12 +36,14 @@ do
       sleep 1
       jupyter-book clean -a lecturebook
       ;;
+    *)
+      echo 'Options supported: -s (for setup) and -v (for verbose)'
+      ;;
     esac
     exit
 done
 
 # If no option is selected
-
 # Make it
 jupyter-book build lecturebook --all
 
