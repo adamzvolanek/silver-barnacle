@@ -9,7 +9,7 @@
 
 # Options are s for setup and v for verbose
 
-while getopts svf OPTION;
+while getopts sv OPTION;
 do
     case $OPTION in
     s)
