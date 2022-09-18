@@ -36,7 +36,7 @@ Please use best judgement when downloading installers and programs to your local
 
 Users are able to make updates to the markdown files using any of the free markdown editors online for their respective operating systems. It is encouraged to use markdown editors and spell-check if possible. Likewise use of Jupyter-book in the event of executable code is required is highly encouraged to ensure compatability during pages deployment.
 
-Once any updates are complete, including new pages in markdown or jupyter-book, commit your changes with an appropriate message and push to the main branch. Once pushed, run the make.sh file in the main branch to compile the jupyter-book, push to the gh-pages branch, and cleanup the main branch there after. This is all done automaticall
+Once any updates are complete, including new pages in markdown or jupyter-book, commit your changes with an appropriate message and push to the main branch. Once pushed, run the make.sh file in the main branch to publish a new webpage.
 
 ## Authors
 
