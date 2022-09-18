@@ -12,5 +12,5 @@ jupyter-book build lecturebook --all
 # Publish it
 ghp-import -n -p -b gh-pages lecturebook/_build/html
 
-# Clean Up
+# Clean it
 jupyter-book clean -a lecturebook
