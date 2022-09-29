@@ -4,10 +4,12 @@ This website serves to be the lecture book for Introduction to Computing 101 tha
 
 ## Course Description
 
-Introduction to Computing 101 is designed to allow students new to the computing space, to become familiar with computer hardware, basic networking concepts, introductions to software and programming, internet best practices, web security, social/ethics of the internet, and becoming familiar with Microsoft Office. This course is standard semester length and not designed to directly test the knowledge that we teach, but to become confident in using the latest in business technology and other concepts.
+Introduction to Computing 101 is designed to allow students new to the computing space, to become familiar with computer hardware, basic networking concepts, introductions to software and programming, internet best practices, web security, social/ethics of the internet, and becoming familiar with Microsoft Office. 
+At a standard semester length and not designed to directly test the knowledge that we teach, but to become confident in using the latest in business technology and other concepts.
 This course may be used as a supplemental course to achieving the CompTIA A+ certification. Students wanting to focus on completing the certification are encouraged to dive deeper than this course offers.
 
 ## Course Learning Outcomes
+
 After completing this course, you will be able to:
 + Give a brief description of computers and their history.
 + Identify computer hardware and different types of ports.
