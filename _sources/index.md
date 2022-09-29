@@ -1,12 +1,15 @@
-# Welcome!
+# Welcome
 
-This website serves to be the lecture book for Introduction to Computing 101 that are to act as a reference for students and as an outline for the semester. Various topics will be covered however the purpose is to gain confidence in computer literacy and when traversing the internet. Likewise to become familiar with Microsoft Office products and the basic concepts and ideas of computer programming.
+This site serves to be the lecture book for Introduction to Computing 101 that are to act as a reference for students and as an outline for the semester. Various topics will be covered however the purpose is to gain confidence in computer literacy and when traversing the internet. Likewise to become familiar with Microsoft Office products and the basic concepts and ideas of computer programming.
 
 ## Course Description
 
-Introduction to Computing 101 is designed to allow students new to the computing space, to become familiar with computer hardware, basic networking concepts, introductions to software and programming, internet best practices, web security, social/ethics of the internet, and becoming familiar with Microsoft Office. This course is standard semester length and not designed to directly test the knowledge that we teach, but to become confident in using the latest in business technology and other concepts. This course may be used as a supplemental course to achieving the CompTIA A+ certification. Students wanting to focus on completing the certification are encouraged to dive deeper than this course offers.
+Introduction to Computing 101 is designed to allow students new to the computing space, to become familiar with computer hardware, basic networking concepts, introductions to software and programming, internet best practices, web security, social/ethics of the internet, and becoming familiar with Microsoft Office.
+At a standard semester length and not designed to directly test the knowledge that we teach, but to become confident in using the latest in business technology and other concepts.
+This course may be used as a supplemental course to achieving the CompTIA A+ certification. Students wanting to focus on completing the certification are encouraged to dive deeper than this course offers.
 
 ## Course Learning Outcomes
+
 After completing this course, you will be able to:
 + Give a brief description of computers and their history.
 + Identify computer hardware and different types of ports.
@@ -23,7 +26,7 @@ After completing this course, you will be able to:
 ## Pre-requisites
 + Basic identification of consumer computer hardware: laptop, desktop, monitor, mouse, keyboard.
 + Understanding on basic operating system operations: power-on, power-off, opening/closing windows, and how to:
-    + Copy, cut, paste, and create new folders
+  + Copy, cut, paste, and create new folders
 + Basics of using a mouse and keyboard.
 + Desire to learn computer literacy, office software, and basic computer hardware troubleshooting.
 
