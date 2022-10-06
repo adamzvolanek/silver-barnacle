@@ -10,7 +10,7 @@ Intended as a volunteer effort to teach middle/high-school students computer lit
 
 The link to the live lecture book can be found [here](https://adamzvolanek.github.io/silver-barnacle/).
 
-# Getting Started
+## Getting Started
 
 ## Installation
 
@@ -63,13 +63,13 @@ Currently, each topic page includes a brief overview of the content, while the t
 
 ### Naming Practices
 
-#### Lecture 
-When in the lecture book directory, it includes `_config.yml` and `_toc.yml` in which the former drives settings for the entire lecture book, while the ladder is the table of contents. Within the same directory, includes all the top-level pages as seen in the live lecture book. Sub-sections are formed as directories and within each includes additional markdown files as they line-up with the table of contents. (`_toc.yml`)
+#### Lecture
+When in the lecture book directory, it includes `_config.yml` and `_toc.yml` in which the former drives settings for the entire lecture book, while the ladder is the table of contents. Within the same directory, includes all the top-level pages as seen in the live lecture book. Sub-sections are formed as directories and within each includes additional Markdown files as they line-up with the table of contents. (`_toc.yml`)
 
 #### Assignments
 Moving forward assignments need to be assigned numerically after the word assignment. Additionally, the assignment page should be tied to the lecture for which it is associated with. For example, this page is internally named `Assignment01_1` for being the first assignment and part of lecture 1.
 
-## Authors
+### Authors
 Contributors names and contact info:
 ~ Adam Zvolanek
 
@@ -77,6 +77,6 @@ Contributors names and contact info:
 * 0.1 Complete.
   * Development processes and skeleton structure of the book.
 * 0.15 Expand Content and ReadMe
-  * Includes adding content or ideas for content with explanations of naming nomenclature and formatting. 
+  * Includes adding content or ideas for content with explanations of naming nomenclature and formatting.
   * Expand ReadMe with best-practices.
   
