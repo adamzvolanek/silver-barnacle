@@ -20,4 +20,4 @@ Include mention of SFP Plugs, DAC cables, and fiber-optic cables.
 Our world today continues to become more inter-connected each day as more homes, more people, and more business establish an internet precense. But how are we able to talk to our family, friends, and strangers across the globe? How can you play games with people down the street and other peers in continents like Austrailia? The sea is laid with under-sea fiber-optic cabling that can be seen [here](https://www.submarinecablemap.com/). 
 
 #### Under-Sea Cables
-Discuss the size, length, and data transfer speeds of these cables. Include Youtube video? [Wikipedia on under-sea cables](https://en.wikipedia.org/wiki/Submarine_communications_cable)
+Discuss the size, length, and data transfer speeds of these cables. Include YouTube video? [Wikipedia on under-sea cables](https://en.wikipedia.org/wiki/Submarine_communications_cable)
