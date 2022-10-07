@@ -8,7 +8,9 @@ Intended as a volunteer effort to teach middle/high-school students computer lit
 
 ## Lecture Book
 
-The link to the live lecture book can be found [here](https://adamzvolanek.github.io/silver-barnacle/).
+The lecture book can be accessed by clicking [here](https://adamzvolanek.github.io/silver-barnacle/).
+
+![Lecture Book Status](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 ## Getting Started
 
