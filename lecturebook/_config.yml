@@ -9,8 +9,7 @@ repository:
 launch_buttons:
   notebook_interface: "jupyterlab"
   colab_url: "https://colab.research.google.com"
-bibtex_bibfiles:
-  - references.bib
 sphinx:
   config:
     bibtex_reference_style: author_year
+    bibtex_bibfiles: "references.bib"

@@ -1,3 +1,3 @@
 # Bibliography
-
-Here are my sources...
+```{bibliography}
+```

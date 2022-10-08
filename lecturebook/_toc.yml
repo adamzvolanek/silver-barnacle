@@ -6,7 +6,6 @@ chapters:
       - file: assignments/assignment01
         sections: 
           - file: lecture01/section1_1
-          - file: lecture01/section1_2
   - file: hardware
     sections: 
       - file: lecture02/index
@@ -70,5 +69,11 @@ chapters:
           - file: lecture11/section11_2
           - file: lecture11/section11_3
   - file: bibliography
+  - file: example
+    sections:
+      - file: example/index
+      sections:
+        - file: sectione_2
+        - file: sectione_1
 format: jb-book
 root: index
