@@ -5,7 +5,7 @@ Lorem ipsum...
 
 ## Hard Drives and Data Storage
 
-Data storage can be showed with this kind of heirarchical tree. 
+Data storage can be showed with this kind of heirarchical tree.
 8 bits = 1 byte
 1024 bytes = 1 kilobyte
 1024 K = 1 Megabyte = 1,048,576 bytes
