@@ -73,7 +73,7 @@ chapters:
     sections:
       - file: example/index
         sections:
-          - file: sectione_2
-          - file: sectione_1
+          - file: example/sectione_2
+          - file: example/sectione_1
 format: jb-book
 root: index
