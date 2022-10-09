@@ -1,6 +1,9 @@
-# Lecture 7.1 - What Download Button?
+# Who Are We?
 
-## Common Download Button Pitfalls
-Show how certain sites try to trick you into downloading an application.
+## Person 1
 
-## Others
+Small snippet about you, things you like to do in your free time, etc. 
+
+## Person 2
+
+Small snippet about you, things you like to do in your free time, etc. 
