@@ -1,5 +1,5 @@
-# Lecture 10 - Society and Ethics
+# Lecture 10 - Intro to Programming
 
 ## Objectives
-+ Familiarity with common intellectual property rules, piray, and copyright issues online.
-+ Proper disposal of e-waste and recycling programs.
++ Exposure to what programming is
++ Basics of programming logic

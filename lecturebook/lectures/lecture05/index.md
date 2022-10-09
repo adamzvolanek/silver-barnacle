@@ -1,7 +1,6 @@
-# Lecture 5 - File Management & Types
+# Lecture 5 - Software
 
 ## Objectives
-+ Learn the basics of how files are organized between Windows and ChromeOS
-+ Showcase good file management habits
-+ Present different File Types and formating
-+ Tips + Tricks of keeping organized
++ Understand different types of operating systems.
++ Learn how computers communicate: binary.
++ Begin to tie together Software and its relationship with computer hardware [Lecture 2](https://adamzvolanek.github.io/silver-barnacle/lecture02/index.html)

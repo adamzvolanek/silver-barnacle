@@ -1,6 +1,7 @@
-# Lecture 4 - Software
+# Lecture 4 - Networking
 
 ## Objectives
-+ Understand different types of operating systems.
-+ Learn how computers communicate: binary.
-+ Begin to tie together Software and its relationship with computer hardware [Lecture 2](https://adamzvolanek.github.io/silver-barnacle/lecture02/index.html)
++ Understand what are Internet Service Providers and their purpose.
++ Become familiar with IP addresses, DNS names, and basics of networking devices.
++ Learn the basics of networking traffic.
++ Types of network cabling and their standards

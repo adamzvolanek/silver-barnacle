@@ -20,62 +20,67 @@ parts:
             sections: 
               - file: lectures/lecture02/section2_1
               - file: lectures/lecture02/section2_2
+              - file: lectures/lecture02/section2_3
+              
       - file: lectures/networking
-        sections: 
-          - file: lectures/lecture03/index
-            sections: 
-              - file: lectures/lecture03/section3_1
-              - file: lectures/lecture03/section3_2
-              - file: lectures/lecture03/section3_3
-      - file: lectures/software
         sections: 
           - file: lectures/lecture04/index
             sections: 
               - file: lectures/lecture04/section4_1
               - file: lectures/lecture04/section4_2
-      - file: lectures/filemanagement
+              - file: lectures/lecture04/section4_3
+      - file: lectures/software
         sections: 
           - file: lectures/lecture05/index
             sections: 
               - file: lectures/lecture05/section5_1
               - file: lectures/lecture05/section5_2
               - file: lectures/lecture05/section5_3
-      - file: lectures/internet
+      - file: lectures/filemanagement
         sections: 
           - file: lectures/lecture06/index
             sections: 
               - file: lectures/lecture06/section6_1
               - file: lectures/lecture06/section6_2
-      - file: lectures/security
+              - file: lectures/lecture06/section6_3
+      - file: lectures/internet
         sections: 
           - file: lectures/lecture07/index
             sections: 
               - file: lectures/lecture07/section7_1
               - file: lectures/lecture07/section7_2
-      - file: lectures/troubleshooting
+      - file: lectures/security
         sections: 
           - file: lectures/lecture08/index
             sections: 
               - file: lectures/lecture08/section8_1
               - file: lectures/lecture08/section8_2
-      - file: lectures/programming
+      - file: lectures/troubleshooting
         sections: 
           - file: lectures/lecture09/index
             sections: 
               - file: lectures/lecture09/section9_1
-      - file: lectures/social_ethics
+              - file: lectures/lecture09/section9_2
+      - file: lectures/programming
         sections: 
           - file: lectures/lecture10/index
             sections: 
               - file: lectures/lecture10/section10_1
               - file: lectures/lecture10/section10_2
-      - file: lectures/microsoftoffice
+      - file: lectures/social_ethics
         sections: 
           - file: lectures/lecture11/index
             sections: 
               - file: lectures/lecture11/section11_1
               - file: lectures/lecture11/section11_2
               - file: lectures/lecture11/section11_3
+      - file: lectures/microsoftoffice
+        sections: 
+          - file: lectures/lecture12/index
+            sections: 
+              - file: lectures/lecture12/section12_1
+              - file: lectures/lecture12/section12_2
+              - file: lectures/lecture12/section12_3
   - caption: References
     chapters: 
       - file: bibliography

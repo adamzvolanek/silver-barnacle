@@ -1,4 +1,4 @@
-# Lecture 2 - Computer Components and Ports
+# Lecture 2 - Computer Components
 
 ## Objectives
 + Gain an understanding of what a computer is comprised of.
