@@ -1,4 +1,4 @@
-# Lecture 3.2 - Network Cabling and Communication!
+# Lecture 3.2 - Network Cabling and Communication
 
 ## Recall Our Ports
 

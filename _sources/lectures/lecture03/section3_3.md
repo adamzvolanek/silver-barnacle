@@ -1,4 +1,4 @@
-# Lecture 3.3 - The Networking Basics. Traffic Cop?
+# Lecture 3.3 - Networking Basics. Traffic Cop?
 
 ## Modem
 
