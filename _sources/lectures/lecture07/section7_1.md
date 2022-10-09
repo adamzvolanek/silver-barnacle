@@ -1,6 +1,4 @@
-# Lecture 7.1 - What Download Button?
+# Lecture 7.1 - Inter-web
 
-## Common Download Button Pitfalls
-Show how certain sites try to trick you into downloading an application.
-
-## Others
+## Internet, you're on it!
+Discuss what the internet is, its purpose, and what we can do with it.

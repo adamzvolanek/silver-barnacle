@@ -1,5 +1,6 @@
-# Lecture 7 - Security
+# Lecture 7 - Internet
 
 ## Objectives
-+ Learn the basics of secure browsing habits
-+ Understand the different types of computer attacks
++ Learn what the Internet is, and its protocols.
++ Understand what URLs are and different search engine options
++ Cookies, History, and More

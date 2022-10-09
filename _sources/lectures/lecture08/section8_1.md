@@ -1,12 +1,6 @@
-# Lecture 8.1 - Fixing the Windows
+# Lecture 8.1 - What Download Button?
 
-This section will focus on using Windows 10
+## Common Download Button Pitfalls
+Show how certain sites try to trick you into downloading an application.
 
-## Common Windows Tools to Troubleshoot
-Device Manager, Task Manager, etc...
-
-### How to Use Device Manager
-
-### How to use Task Manager
-
-## Common ChromeOS Tools to Troubleshoot
+## Others
