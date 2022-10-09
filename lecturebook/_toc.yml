@@ -1,81 +1,81 @@
---- 
+---
 format: jb-book
 root: index
 parts: 
   - caption: Welcome
     chapters: 
-      - file: whoweare/background
-      - file: introduction
+      - file: welcome/introduction
+      - file: welcome/background
   - caption: Lectures
     chapters: 
-      - file: history
+      - file: lectures/history
         sections: 
-          - file: lecture01/index
+          - file: lectures/lecture01/index
             sections: 
-              - file: lecture01/section1_1
+              - file: lectures/lecture01/section1_1
           - file: assignments/assignment01
-      - file: hardware
+      - file: lectures/hardware
         sections: 
-          - file: lecture02/index
+          - file: lectures/lecture02/index
             sections: 
-              - file: lecture02/section2_1
-              - file: lecture02/section2_2
-      - file: networking
+              - file: lectures/lecture02/section2_1
+              - file: lectures/lecture02/section2_2
+      - file: lectures/networking
         sections: 
-          - file: lecture03/index
+          - file: lectures/lecture03/index
             sections: 
-              - file: lecture03/section3_1
-              - file: lecture03/section3_2
-              - file: lecture03/section3_3
-      - file: software
+              - file: lectures/lecture03/section3_1
+              - file: lectures/lecture03/section3_2
+              - file: lectures/lecture03/section3_3
+      - file: lectures/software
         sections: 
-          - file: lecture04/index
+          - file: lectures/lecture04/index
             sections: 
-              - file: lecture04/section4_1
-              - file: lecture04/section4_2
-      - file: filemanagement
+              - file: lectures/lecture04/section4_1
+              - file: lectures/lecture04/section4_2
+      - file: lectures/filemanagement
         sections: 
-          - file: lecture05/index
+          - file: lectures/lecture05/index
             sections: 
-              - file: lecture05/section5_1
-              - file: lecture05/section5_2
-              - file: lecture05/section5_3
-      - file: internet
+              - file: lectures/lecture05/section5_1
+              - file: lectures/lecture05/section5_2
+              - file: lectures/lecture05/section5_3
+      - file: lectures/internet
         sections: 
-          - file: lecture06/index
+          - file: lectures/lecture06/index
             sections: 
-              - file: lecture06/section6_1
-              - file: lecture06/section6_2
-      - file: security
+              - file: lectures/lecture06/section6_1
+              - file: lectures/lecture06/section6_2
+      - file: lectures/security
         sections: 
-          - file: lecture07/index
+          - file: lectures/lecture07/index
             sections: 
-              - file: lecture07/section7_1
-              - file: lecture07/section7_2
-      - file: troubleshooting
+              - file: lectures/lecture07/section7_1
+              - file: lectures/lecture07/section7_2
+      - file: lectures/troubleshooting
         sections: 
-          - file: lecture08/index
+          - file: lectures/lecture08/index
             sections: 
-              - file: lecture08/section8_1
-              - file: lecture08/section8_2
-      - file: programming
+              - file: lectures/lecture08/section8_1
+              - file: lectures/lecture08/section8_2
+      - file: lectures/programming
         sections: 
-          - file: lecture09/index
+          - file: lectures/lecture09/index
             sections: 
-              - file: lecture09/section9_1
-      - file: social_ethics
+              - file: lectures/lecture09/section9_1
+      - file: lectures/social_ethics
         sections: 
-          - file: lecture10/index
+          - file: lectures/lecture10/index
             sections: 
-              - file: lecture10/section10_1
-              - file: lecture10/section10_2
-      - file: microsoftoffice
+              - file: lectures/lecture10/section10_1
+              - file: lectures/lecture10/section10_2
+      - file: lectures/microsoftoffice
         sections: 
-          - file: lecture11/index
+          - file: lectures/lecture11/index
             sections: 
-              - file: lecture11/section11_1
-              - file: lecture11/section11_2
-              - file: lecture11/section11_3
+              - file: lectures/lecture11/section11_1
+              - file: lectures/lecture11/section11_2
+              - file: lectures/lecture11/section11_3
   - caption: References
     chapters: 
       - file: bibliography
