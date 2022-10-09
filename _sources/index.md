@@ -1,4 +1,4 @@
-# Welcome
+# About Computing 101
 
 This site serves to be the lecture book for Introduction to Computing 101 that are to act as a reference for students and as an outline for the semester. Various topics will be covered however the purpose is to gain confidence in computer literacy and when traversing the internet. Likewise to become familiar with Microsoft Office products and the basic concepts and ideas of computer programming.
 
