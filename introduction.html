@@ -52,8 +52,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Lecture 1 - What are Computers &amp; History of Computing" href="lecture01/index.html" />
-    <link rel="prev" title="Welcome" href="index.html" />
+    <link rel="next" title="History" href="history.html" />
+    <link rel="prev" title="Who Are We?" href="whoweare/background.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -108,25 +108,42 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <ul class="current nav bd-sidenav">
- <li class="toctree-l1 current active has-children">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Welcome
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="whoweare/background.html">
+   Who Are We?
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
    Introduction
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Lectures
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="history.html">
+   History
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
   <label for="toctree-checkbox-1">
    <i class="fas fa-chevron-down">
    </i>
   </label>
   <ul>
-   <li class="toctree-l2">
+   <li class="toctree-l2 has-children">
     <a class="reference internal" href="lecture01/index.html">
      Lecture 1 - What are Computers &amp; History of Computing
-    </a>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="assignments/assignment01.html">
-     Assignment 1 of Lecture 1
     </a>
     <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
     <label for="toctree-checkbox-2">
@@ -140,6 +157,11 @@ const thebe_selector_output = ".output, .cell_output"
       </a>
      </li>
     </ul>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="assignments/assignment01.html">
+     Assignment 1 of Lecture 1
+    </a>
    </li>
   </ul>
  </li>
@@ -493,11 +515,25 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
   </ul>
  </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  References
+ </span>
+</p>
+<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="bibliography.html">
    Bibliography
   </a>
  </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Example Pages
+ </span>
+</p>
+<ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="example.html">
    Example Topic Page
@@ -669,16 +705,6 @@ title="Print to PDF"
    Lecture Book Explained
   </a>
  </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#learning-topics">
-   Learning Topics
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction-includes">
-   Introduction Includes
-  </a>
- </li>
 </ul>
 
     </nav>
@@ -703,16 +729,6 @@ title="Print to PDF"
    Lecture Book Explained
   </a>
  </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#learning-topics">
-   Learning Topics
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction-includes">
-   Introduction Includes
-  </a>
- </li>
 </ul>
 
                         </nav>
@@ -731,23 +747,6 @@ title="Print to PDF"
 On the left side, you can see the course outlined by topic and lectures within each. Each top-level lecture will include objectives for learning each large topic. The bottom of each page will show how to move backward and forward between the lectures and sections. Everyone is welcome to provide feedback on the lecture book either in class or through email.</p>
 <p>Please do not hesitate to ask about any additional layout recommendations or making the content presentation better or more pallatable.</p>
 </section>
-<section id="learning-topics">
-<h2>Learning Topics<a class="headerlink" href="#learning-topics" title="Permalink to this headline">#</a></h2>
-<p>In this chapter, we introduce various basic concepts and ideas that are useful throughout the course. This includes what a computer is, what are a computers components, basic security guidelines, best practices, and how to use common software used on the job.</p>
-</section>
-<section id="introduction-includes">
-<h2>Introduction Includes<a class="headerlink" href="#introduction-includes" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Lecture 1</p>
-<ul>
-<li><p>Lecture 1.1 - What is a Computer?</p></li>
-<li><p>Lecture 1.2 - History of Computing?</p></li>
-</ul>
-</li>
-</ul>
-</section>
-<div class="toctree-wrapper compound">
-</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -777,17 +776,17 @@ On the left side, you can see the course outlined by topic and lectures within e
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="index.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="whoweare/background.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Welcome</p>
+            <p class="prev-next-title">Who Are We?</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="lecture01/index.html" title="next page">
+    <a class='right-next' id="next-link" href="history.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Lecture 1 - What are Computers &amp; History of Computing</p>
+        <p class="prev-next-title">History</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
