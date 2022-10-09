@@ -1,7 +1,6 @@
 --- 
 format: jb-book
 root: index
-title: Introduction
 parts: 
   - caption: Welcome
     chapters: 
