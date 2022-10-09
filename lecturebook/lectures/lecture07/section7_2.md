@@ -1,4 +1,7 @@
-# Lecture 7.2 - Under Attack!
+# Lecture 7.2 - Protocols and Cookies
 
-## All the wares
-Randsomeware, virus's, spyware (keyloggers), malware...
+## Types of Internet Protcols
+HTTP vs HTTPS
+
+## Cookies and Settings
+Discuss what cookies are and trackers.

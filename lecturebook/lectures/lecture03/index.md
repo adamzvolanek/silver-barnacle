@@ -1,7 +1,5 @@
-# Lecture 3 - Networking
+# Lecture 3 - Computer Ports & Plugs
 
 ## Objectives
-+ Understand what are Internet Service Providers and their purpose.
-+ Become familiar with IP addresses, DNS names, and basics of networking devices.
-+ Learn the basics of networking traffic.
-+ Types of network cabling and their standards
++ Gain an understanding of what a computer is comprised of.
++ Gain understanding of the different ports and peripherals of a computer.

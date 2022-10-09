@@ -1,5 +1,5 @@
-# Lecture 9 - Intro to Programming
+# Lecture 9 - Troubleshooting & Components
 
 ## Objectives
-+ Exposure to what programming is
-+ Basics of programming logic
++ Become accustomed to basic troubleshooting methods.
++ Understand the combination of components in computers to meet different needs.
