@@ -1,6 +1,5 @@
-# Lecture 8 - Troubleshooting & Components
+# Lecture 8 - Security
 
 ## Objectives
-
-+ Become accustomed to basic troubleshooting methods.
-+ Understand the combination of components in computers to meet different needs.
++ Learn the basics of secure browsing habits
++ Understand the different types of computer attacks

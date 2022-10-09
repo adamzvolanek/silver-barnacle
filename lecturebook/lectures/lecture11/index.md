@@ -1,7 +1,5 @@
-# Lecture 11 - Microsoft Office Suite
+# Lecture 11 - Society and Ethics
 
 ## Objectives
-+ Become familiar with Microsoft Office Products including:
-  + Word
-  + Powerpoint
-  + Excel
++ Familiarity with common intellectual property rules, piray, and copyright issues online.
++ Proper disposal of e-waste and recycling programs.

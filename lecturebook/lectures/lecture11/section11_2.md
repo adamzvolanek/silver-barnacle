@@ -1,3 +1,7 @@
-# Lecture 11.2 - Microsoft Powerpoint
+# Lecture 11.2 - Ethics
 
-## Section 1
+## Common Issues Online Today
+
+### Copyright Law
+
+### Piracy

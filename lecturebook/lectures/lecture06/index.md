@@ -1,7 +1,7 @@
-# Lecture 6 - Internet
+# Lecture 6 - File Management & Types
 
 ## Objectives
-
-+ Learn what the internet is, and its protocols.
-+ Understand what URLs are and different search engine options
-+ Cookies, History, and More
++ Learn the basics of how files are organized between Windows and ChromeOS
++ Showcase good file management habits
++ Present different File Types and formating
++ Tips + Tricks of keeping organized
