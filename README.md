@@ -10,7 +10,7 @@ Intended as a volunteer effort to teach middle/high-school students computer lit
 
 The lecture book can be accessed by clicking [here](https://adamzvolanek.github.io/silver-barnacle/).
 
-![Lecture Book Status](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/pages/pages-build-deployment/badge.svg)
+To view the status of the lecture book, see the github-pages status under Environments. Clicking on [github-pages](https://github.com/adamzvolanek/silver-barnacle/deployments/activity_log?environment=github-pages) status will also present the last date the lecture book has been updated.
 
 ## Contributing
 
