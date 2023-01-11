@@ -25,7 +25,6 @@ parts:
             sections:
               - file: lectures/lecture03/section3_1
               - file: lectures/lecture03/section3_2
-              - file: lectures/lecture03/section3_3
       - file: lectures/networking
         sections: 
           - file: lectures/lecture04/index

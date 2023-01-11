@@ -12,13 +12,15 @@ As mentioned previously hard drives contain the data of your computer. From lect
 
 ### Hard Disk Drive
 
-A hard disk drive (HDD) is composed of a platter that contains compartments to hold data. This data is your operating system, applications, and any files you have created. Inside the hard drive there is also an actuator arm that moves across the platter to read or write the information requested. To make this process faster, the platter spins (like a CD/DVD/Blu-ray) as the actuator arm moves across it.
+A traditional hard disk drive (HDD) uses spinning disks to read and write data. The disks are coated with magnetic material and are read by a moving read/write head. Data is stored on the disk in the form of magnetic patterns and because the disk is spinning, the read/write head needs to move to the location on the disk where the data is stored.s. Think CDs, DVDs, and Blu-Rays, but the discs staked ontop of each other (a platter), and an actuator arm  that reads all of the discs simulanteously to read and write data.
 
-With this type of hard drive, the compartments that hold the data can be spread out all over the hard disk. That is, data is not written sequentially.
+Because these types of hard drives spin on the inside, they are sometime referred to as "mechanical hard drives". They come in 3.5 inch and 2.5 inch form factors (sizes) and are very dense in storage.
 
 ### Solid State Drive
 
-This is a solid state drive...
+A solid state drive (SSD) and a hard disk drives (HDD) are both types of storage devices that are used to store data, but they work in very different ways.
+
+A solid state drive (SSD) uses a different technology than an HDD; instead of a platter, SSDs use memory chips. There are no moving parts in an SSD (or the memory chips), which means that data can be read and written much faster. Additionally, since the data is stored on memory chips, an SSD is much more durable and less likely to be damaged if dropped or bumped. SSDs are more expensive per GB than HDDs, but they are faster, and more reliable, which means they can offer a better performance and long-term value to the user.
 
 ### Data Storage
 
@@ -28,12 +30,18 @@ When purchasing hard drives, keep in mind that most hard drive manufacturers adv
 
 ## Central Processing Unit (CPU)
 
-A Central Processing Unit is...
+A CPU is the brain of a computer. It is responsible for executing instructions, or code, that make up a program. It retrieves the instructions from memory (RAM or Hard Drive), decodes them, performs the necessary calculations, and stores the results. These results can mean the true zero's and one's that make the decisions of you left-clicking with your mouse or tapping on your phone.
+
+In simple terms, It's the heart of the device that does all the calculations and runs the software.
 
 ## Random Access Memory (RAM)
 
-Random Access Memory is...
+RAM, or Random Access Memory, is a type of memory that is used to temporarily store data that the CPU needs very quick access to. When a program is running, the CPU retrieves the instructions from the storage device, such as a hard drive, and loads them into RAM. The CPU then reads the instructions from RAM and performs the necessary calculations and store the results.
+
+However, RAM is volatile memory which means when the device is shut off the data stored in it gets lost, that's why the data is stored in hard drive or SSD, which is non-volatile.
 
 ## Power Supply Unit (PSU)
 
-A PSU is...
+A power supply, also known as a PSU (power supply unit), is a component in a computer that converts alternating current (AC) electrical power from the wall outlet into direct current (DC) power that the computer can use. The power supply then distributes the DC power to the various components of the computer, such as the CPU, RAM, and storage devices, similar to how our blood helps delivery oxygen and other nutrients around our body.
+
+On a more technical level, a PSU regulates the voltage and current to the various components of the computer, providing the necessary power to run the system, and also providing over-voltage and over-current protection, keeping the components safe from damage. The power supply also manages the power distribution throughout the system, providing more power to components that need it and less power to components that don't. This helps to ensure that the computer runs efficiently and doesn't waste energy.
