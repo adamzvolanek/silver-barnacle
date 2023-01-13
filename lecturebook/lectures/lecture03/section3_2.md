@@ -1,1 +1,2 @@
-# Lecture 3.2 - Computers' and Ports
+# Lecture 3.2 - Phones' and Their Plugs
+
