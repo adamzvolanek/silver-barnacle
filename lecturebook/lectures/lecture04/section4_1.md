@@ -2,7 +2,7 @@
 
 ## Local to St. Louis, Missouri
 
-Currently in St. Louis we have more popular Interet Service Providers (ISPs) including...
+Currently in St. Louis we have more popular Internet Service Providers (ISPs) including...
 
 ### Satellite Based Providers
 

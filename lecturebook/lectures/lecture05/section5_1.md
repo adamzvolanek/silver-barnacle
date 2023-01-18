@@ -1,4 +1,4 @@
-# Lecture 5.1 - Opearting Systems
+# Lecture 5.1 - Operating Systems
 
 ## Nerdy Linux
 

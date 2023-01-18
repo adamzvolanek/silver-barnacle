@@ -6,7 +6,7 @@ These devices include very slim almost 'node' like PCs that are tightly integrat
 
 ## Home PC
 
-Most commonly seen home PCs include pre-built desktops or laptops. Focusing on desktops, they provide some flexbility for users at home, while also providing a common configuration of parts. Some brands allow component replacement for users at home without needing to send it back to the manufacturer.
+Most commonly seen home PCs include pre-built desktops or laptops. Focusing on desktops, they provide some flexibility for users at home, while also providing a common configuration of parts. Some brands allow component replacement for users at home without needing to send it back to the manufacturer.
 
 ## Gaming PC
 
@@ -14,7 +14,7 @@ Building on the desktop mindset, many gaming desktops found at home vary between
 
 ## Graphics/CAD Design Workstation
 
-Stepping away from the gaming PCs, many engineering firms require the use of graphics however for computer aided design and animation. Similarly built as gaming PCs, the graphics cards are ones that are verified and tested with CAD and animation like software. Likewise, the other components are vetted to create a stable envionrment for the business.
+Stepping away from the gaming PCs, many engineering firms require the use of graphics however for computer aided design and animation. Similarly built as gaming PCs, the graphics cards are ones that are verified and tested with CAD and animation like software. Likewise, the other components are vetted to create a stable environment for the business.
 
 ## Virtualization/Home Server Workstation
 
@@ -24,4 +24,4 @@ Those wanting to explore virtualization or self-hosting, the options greatly var
 
 ### Businesses
 
-When cost and productivity are found as the driving components for a succesful business. Business purchase dedicated server equipment to become an entire room full of servers.
+When cost and productivity are found as the driving components for a successful business. Business purchase dedicated server equipment to become an entire room full of servers.

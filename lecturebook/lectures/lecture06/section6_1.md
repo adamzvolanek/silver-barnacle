@@ -1,4 +1,4 @@
-# Lecture 6.1 - Where is my Rolladex?
+# Lecture 6.1 - Where is my Rolodex?
 
 ## Windows File Structure
 

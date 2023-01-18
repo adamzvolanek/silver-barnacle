@@ -2,9 +2,9 @@
 
 ## How do computers talk
 
-Binary is the langauge that computer processors use to perform instructions. It is a two symbol system, named binary, comprised of two bits: 0 and 1.
+Binary is the language that computer processors use to perform instructions. It is a two symbol system, named binary, comprised of two bits: 0 and 1.
 
-Below you can see how data storage can be showed with this kind of heirarchical tree.
+Below you can see how data storage can be showed with this kind of hierarchical tree.
 8 bits = 1 byte
 1024 bytes = 1 kilobyte
 1024 K = 1 Megabyte = 1,048,576 bytes

@@ -2,7 +2,7 @@
 
 ## Modem
 
-From the ISP, a cable is brought in from oustide of your home or apartment into what could be a patch panel, or simply brought in through the walls of your house.
+From the ISP, a cable is brought in from outside of your home or apartment into what could be a patch panel, or simply brought in through the walls of your house.
 
 ## Routers
 

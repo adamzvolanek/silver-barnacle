@@ -1,6 +1,6 @@
 # Lecture 7.2 - Protocols and Cookies
 
-## Types of Internet Protcols
+## Types of Internet Protocols
 
 HTTP vs HTTPS
 

@@ -1,16 +1,16 @@
 # Lecture 3.1 - Computers' and Ports
 
-There are plenty of common computer ports to go around, including ones we did not mention on this page. However a goal of this course to have you become familiar about common ports and their naming standards. To be able to think critically and an informed buyer when shopping for new a new computer, laptop, or phone. We do not ask you memorize all the different standards of ports for USB, HDMI, or Thunderbolt, but to understand at a high level all the different types of ports purposes and know there are different specifications beyond the advertisment that reads "USB 3 Port".
+There are plenty of common computer ports to go around, including ones we did not mention on this page. However a goal of this course to have you become familiar about common ports and their naming standards. To be able to think critically and an informed buyer when shopping for new a new computer, laptop, or phone. We do not ask you memorize all the different standards of ports for USB, HDMI, or Thunderbolt, but to understand at a high level all the different types of ports purposes and know there are different specifications beyond the advertisement that reads "USB 3 Port".
 
 ## USB (Universal Serial Bus)
 
 USB ports are used to connect a wide variety of devices to a computer, such as mice, keyboards, printers, and external hard drives. USB comes in many different varieties including slower data transferring USB 1.0 and 2.0, to today's modern USB 3.0 type plugs.
 
-The most common types of USB that remain include USB 3.X Type B for computer monitors and USB 2.0 Type B for printers which can usually be differentiated by the plug color. While USB 2.0 type Micro-B can still be found on devices that do not require USB 3.0 data transfer speeds. The current push for UBS moderinization includes the popularization of UBS-C including it becoming a common standard in some countries.
+The most common types of USB that remain include USB 3.X Type B for computer monitors and USB 2.0 Type B for printers which can usually be differentiated by the plug color. While USB 2.0 type Micro-B can still be found on devices that do not require USB 3.0 data transfer speeds. The current push for UBS modernization includes the popularization of UBS-C including it becoming a common standard in some countries.
 
 ### USB Standards
 
-A breif explanantion of different USB standards that exist today:
+A brief explanation of different USB standards that exist today:
 
 - USB 1.x: USB 1.x is the first generation of USB, it was introduced in 1996, it has a maximum data transfer rate of 12 Mbps and it requires a separate power supply to operate high-power devices.
 
@@ -26,7 +26,7 @@ Below is an overview of the transfer speeds and supported connector types over t
 
 ![USB Standards](../../images/USB_Standards.jpg)
 
-After this point, the USB commitee continues to change their standard naming scheme and modernized specifications, however at the time of writing, the following is another synopsis of the current USB environment. USB4 and USB4 V2 exist however were introduced in 2019 and 2022 repsectively; however very few devices support the data transfer speeds of 40 Gbps and 80 Gbps respectively.
+After this point, the USB committee continues to change their standard naming scheme and modernized specifications, however at the time of writing, the following is another synopsis of the current USB environment. USB4 and USB4 V2 exist however were introduced in 2019 and 2022 respectively; however very few devices support the data transfer speeds of 40 Gbps and 80 Gbps respectively.
 
 Because of USB C's standardization, the USB-IF (Implementers Forum) professional recommendation is to use logos both on the packaging and cable to help distinguish different speeds of which the cable is rated for.
 
@@ -40,7 +40,7 @@ Thunderbolt is a high-speed technology that allows users to connect multiple dev
 
 Thunderbolt aspires to clean up all the different types of USB Standards, noted by the single value standard versioning. Developed by Intel and Apple, it remains a proprietary technology to both companies.
 
-### Thunderbold Standards
+### Thunderbolt Standards
 
 - Thunderbolt 1: Introduced in 2011, it uses a Mini DisplayPort connector and supports data transfer speeds of up to 10 Gbps and display resolutions of up to 2560x1600.
 
@@ -90,4 +90,4 @@ Audio ports are used to connect speakers, headphones, or a microphone to a compu
 
 ## Additional Note
 
-There are plenty of additoinal ports in the electronics and computing space that are less popular for the consumer industry but are for professional or business suited applications.
+There are plenty of additional ports in the electronics and computing space that are less popular for the consumer industry but are for professional or business suited applications.

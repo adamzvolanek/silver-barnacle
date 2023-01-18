@@ -2,7 +2,7 @@
 
 ## Recall Our Ports
 
-Specifically, lets dive into the RJ-45 or more colloquially named, Ethernet jack.
+Specifically, let's dive into the RJ-45 or more colloquially named, Ethernet jack.
 
 ## Our Phones
 
@@ -23,7 +23,7 @@ Include mention of SFP Plugs, DAC cables, and fiber-optic cables.
 
 ### World Connected
 
-Our world today continues to become more inter-connected each day as more homes, more people, and more business establish an internet precense. But how are we able to talk to our family, friends, and strangers across the globe? How can you play games with people down the street and other peers in continents like Austrailia? The sea is laid with under-sea fiber-optic cabling that can be seen [here](https://www.submarinecablemap.com/).
+Our world today continues to become more inter-connected each day as more homes, more people, and more business establish an internet presence. But how are we able to talk to our family, friends, and strangers across the globe? How can you play games with people down the street and other peers in continents like Australia? The sea is laid with under-sea fiber-optic cabling that can be seen [here](https://www.submarinecablemap.com/).
 
 #### Under-Sea Cables
 
