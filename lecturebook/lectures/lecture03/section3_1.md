@@ -54,7 +54,7 @@ Thunderbolt aspires to clean up all the different types of USB Standards, noted 
 
 ## Ethernet
 
-Ethernet ports are used to connect a computer to a wired network, it is usually used for wired internet connection.
+Ethernet ports are used to connect a computer to a wired network, it is usually used for wired internet connection. Ethernet cables and their respective standards can be found in [Lecture 4](../lecture04/section4_3#cables).
 
 ## HDMI (High-Definition Multimedia Interface)
 

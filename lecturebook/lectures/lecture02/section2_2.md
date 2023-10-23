@@ -12,7 +12,7 @@ As mentioned previously hard drives contain the data of your computer. From lect
 
 ### Hard Disk Drive
 
-A traditional hard disk drive (HDD) uses spinning disks to read and write data. The disks are coated with magnetic material and are read by a moving read/write head. Data is stored on the disk in the form of magnetic patterns and because the disk is spinning, the read/write head needs to move to the location on the disk where the data is stored.s. Think CDs, DVDs, and Blu-Rays, but the discs staked ontop of each other (a platter), and an actuator arm  that reads all of the discs simulanteously to read and write data.
+A traditional hard disk drive (HDD) uses spinning disks to read and write data. The disks are coated with magnetic material and are read by a moving read/write head. Data is stored on the disk in the form of magnetic patterns and because the disk is spinning, the read/write head needs to move to the location on the disk where the data is stored.s. Think CDs, DVDs, and Blu-Rays, but the discs staked on top of each other (a platter), and an actuator arm  that reads all of the discs simultaneously to read and write data.
 
 Because these types of hard drives spin on the inside, they are sometime referred to as "mechanical hard drives". They come in 3.5 inch and 2.5 inch form factors (sizes) and are very dense in storage.
 
