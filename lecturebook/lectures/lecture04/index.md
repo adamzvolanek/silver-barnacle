@@ -7,3 +7,4 @@
 + Learn the basics of networking traffic.
 + Types of network cabling and their standards
 + How the world is connected via internet
++ Basics of network layering
