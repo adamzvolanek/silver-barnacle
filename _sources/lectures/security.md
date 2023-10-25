@@ -1,3 +1,3 @@
 # Security
 
-In this chapter, we introduce different commputer vulnerabilities and beocming more conscientious of different attack vectors.
+In this chapter, we introduce different computer vulnerabilities and becoming more conscientious of different attack vectors.

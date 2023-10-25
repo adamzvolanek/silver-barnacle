@@ -2,7 +2,7 @@
 
 ## Component Considerations
 
-Building a computer may seem like a complicated task, and in some ways it can be, but here are a few questions to ask yourself before building a computer. 
+Building a computer may seem like a complicated task, and in some ways it can be, but here are a few questions to ask yourself before building a computer.
 
 1. **Purpose**: What you will be using the computer for? Gaming, video editing, programming, general use, etc. It would be important to know what you're trying to achieve and what type of software you're planning on running.
 

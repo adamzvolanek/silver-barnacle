@@ -1,3 +1,3 @@
 # Internet
 
-In this chapter, we introduce what the Internet is and different components of web-browsing.
+In this chapter, we introduce what the internet is and different components of web-browsing.

@@ -11,6 +11,7 @@ This course may be used as a supplemental course to achieving the CompTIA A+ cer
 ## Course Learning Outcomes
 
 After completing this course, you will be able to:
+
 + Give a brief description of computers and their history.
 + Identify computer hardware and different types of ports.
 + Be able to identify different network providers, cabling, and networking components.
@@ -24,6 +25,7 @@ After completing this course, you will be able to:
 + Introductions to using the Microsoft Office Suite: Word, Powerpoint, Excel
 
 ## Pre-requisites
+
 + Basic identification of consumer computer hardware: laptop, desktop, monitor, mouse, keyboard.
 + Understanding on basic operating system operations: power-on, power-off, opening/closing windows, and how to:
   + Copy, cut, paste, and create new folders
@@ -31,4 +33,5 @@ After completing this course, you will be able to:
 + Desire to learn computer literacy, office software, and basic computer hardware troubleshooting.
 
 ### What if I am worried about meeting prerequisites?
+
 We are happy to accommodate and provide additional learning opportunities for those concerned about meeting any prerequisites. This course is intended for those with elementary knowledge and to gain confidence in achieving basic computer literacy.

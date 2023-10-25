@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Lecture 4.3 - The Networking Basics. Traffic Cop? &#8212; Introduction to Computing 101</title>
+    <title>Lecture 4.3 - The Networking Basics &#8212; Introduction to Computing 101</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -214,12 +214,12 @@ const thebe_selector_output = ".output, .cell_output"
     <ul>
      <li class="toctree-l3">
       <a class="reference internal" href="../lecture03/section3_1.html">
-       Lecture 3.1 - Phones’ and Their Plugs
+       Lecture 3.1 - Computers’ and Ports
       </a>
      </li>
      <li class="toctree-l3">
       <a class="reference internal" href="../lecture03/section3_2.html">
-       Lecture 3.2 - Computers’ and Ports
+       Lecture 3.2 - Phones’ and Their Plugs
       </a>
      </li>
     </ul>
@@ -248,7 +248,7 @@ const thebe_selector_output = ".output, .cell_output"
     <ul class="current">
      <li class="toctree-l3">
       <a class="reference internal" href="section4_1.html">
-       Lecture 4.1 - The Providers of the Internets!
+       Lecture 4.1 - The Providers of the internets!
       </a>
      </li>
      <li class="toctree-l3">
@@ -258,7 +258,7 @@ const thebe_selector_output = ".output, .cell_output"
      </li>
      <li class="toctree-l3 current active">
       <a class="current reference internal" href="#">
-       Lecture 4.3 - The Networking Basics. Traffic Cop?
+       Lecture 4.3 - The Networking Basics
       </a>
      </li>
     </ul>
@@ -287,7 +287,7 @@ const thebe_selector_output = ".output, .cell_output"
     <ul>
      <li class="toctree-l3">
       <a class="reference internal" href="../lecture05/section5_1.html">
-       Lecture 5.1 - Opearting Systems
+       Lecture 5.1 - Operating Systems
       </a>
      </li>
      <li class="toctree-l3">
@@ -326,7 +326,7 @@ const thebe_selector_output = ".output, .cell_output"
     <ul>
      <li class="toctree-l3">
       <a class="reference internal" href="../lecture06/section6_1.html">
-       Lecture 6.1 - Where is my Rolladex?
+       Lecture 6.1 - Where is my Rolodex?
       </a>
      </li>
      <li class="toctree-l3">
@@ -355,7 +355,7 @@ const thebe_selector_output = ".output, .cell_output"
   <ul>
    <li class="toctree-l2 has-children">
     <a class="reference internal" href="../lecture07/index.html">
-     Lecture 7 - Internet
+     Lecture 7 - internet
     </a>
     <input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/>
     <label for="toctree-checkbox-13">
@@ -743,19 +743,70 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#modem">
-   Modem
+  <a class="reference internal nav-link" href="#cables">
+   Cables
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#phone-rj11">
+     Phone (RJ11)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ethernet-rj45">
+     Ethernet (RJ45)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#coax">
+     Coax
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#fiber-optic">
+     Fiber-Optic
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#routers">
-   Routers
+  <a class="reference internal nav-link" href="#devices">
+   Devices
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#modem">
+     Modem
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#routers">
+     Routers
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#access-point">
+     Access Point
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#switches">
+     Switches
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#switches">
-   Switches
+  <a class="reference internal nav-link" href="#network-layering-osi">
+   Network Layering (OSI)
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#layers-of-the-osi-model">
+     Layers of the OSI Model
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 
@@ -766,7 +817,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Lecture 4.3 - The Networking Basics. Traffic Cop?</h1>
+                <h1>Lecture 4.3 - The Networking Basics</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -777,19 +828,70 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#modem">
-   Modem
+  <a class="reference internal nav-link" href="#cables">
+   Cables
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#phone-rj11">
+     Phone (RJ11)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ethernet-rj45">
+     Ethernet (RJ45)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#coax">
+     Coax
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#fiber-optic">
+     Fiber-Optic
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#routers">
-   Routers
+  <a class="reference internal nav-link" href="#devices">
+   Devices
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#modem">
+     Modem
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#routers">
+     Routers
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#access-point">
+     Access Point
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#switches">
+     Switches
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#switches">
-   Switches
+  <a class="reference internal nav-link" href="#network-layering-osi">
+   Network Layering (OSI)
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#layers-of-the-osi-model">
+     Layers of the OSI Model
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 
@@ -801,19 +903,133 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="lecture-4-3-the-networking-basics-traffic-cop">
-<h1>Lecture 4.3 - The Networking Basics. Traffic Cop?<a class="headerlink" href="#lecture-4-3-the-networking-basics-traffic-cop" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="lecture-4-3-the-networking-basics">
+<h1>Lecture 4.3 - The Networking Basics<a class="headerlink" href="#lecture-4-3-the-networking-basics" title="Permalink to this headline">#</a></h1>
+<p>If you are not interested in networking or how “it all works” when it comes to networking, this section is still for you.</p>
+<section id="cables">
+<h2>Cables<a class="headerlink" href="#cables" title="Permalink to this headline">#</a></h2>
+<section id="phone-rj11">
+<h3>Phone (RJ11)<a class="headerlink" href="#phone-rj11" title="Permalink to this headline">#</a></h3>
+<p>“Back in the day”, home phones existed and were tethered to the home from an outside connection. Once within the home, the phone lines used the RJ11 cable standard, or Registered Jack 11.</p>
+<p><img alt="RJ11 Jack" src="../../_images/RJ11.jpg" /></p>
+</section>
+<section id="ethernet-rj45">
+<h3>Ethernet (RJ45)<a class="headerlink" href="#ethernet-rj45" title="Permalink to this headline">#</a></h3>
+<p>Similar however more capable, is the Ethernet cable, or also known as the RJ45 cable. These are the most common type of networking cable both at home and in businesses. There are various standards of Ethernet cabling named after their Category (CAT) followed by a numerical value that provides various capabilities. For today’s standard/society, you want to use at minimum a Cat5E cable for at home use or any small businesses.</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p></p></th>
+<th class="head"><p>Cat3</p></th>
+<th class="head"><p>Cat5</p></th>
+<th class="head"><p>Cat5e</p></th>
+<th class="head"><p>Cat6</p></th>
+<th class="head"><p>Cat6a</p></th>
+<th class="head"><p>Cat7</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Cable Type</p></td>
+<td><p>UTP</p></td>
+<td><p>UTP</p></td>
+<td><p>UTP</p></td>
+<td><p>UTP or STP</p></td>
+<td><p>STP</p></td>
+<td><p>S/FTP</p></td>
+</tr>
+<tr class="row-odd"><td><p>Transmission Speed</p></td>
+<td><p>10 Mbps</p></td>
+<td><p>10/100/1000 Mbps</p></td>
+<td><p>10/100/1000 Mbps</p></td>
+<td><p>10/100/1000 Mbps</p></td>
+<td><p>10,000 Mbps</p></td>
+<td><p>10,000 Mbps</p></td>
+</tr>
+<tr class="row-even"><td><p>Bandwidth</p></td>
+<td><p>16 MHz</p></td>
+<td><p>100 MHz</p></td>
+<td><p>100 MHz</p></td>
+<td><p>250 MHz</p></td>
+<td><p>500 MHz</p></td>
+<td><p>600 MHz</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="coax">
+<h3>Coax<a class="headerlink" href="#coax" title="Permalink to this headline">#</a></h3>
+<p>Coaxial cable is another popular standard that is used by ‘cable’ ISPs. Commonly used to deliver internet, tv, and phone to the home however remained reliable and accurate transmissions. It consists of a shielded copper core that does not easily succumb to interference or damage from the environment.</p>
+</section>
+<section id="fiber-optic">
+<h3>Fiber-Optic<a class="headerlink" href="#fiber-optic" title="Permalink to this headline">#</a></h3>
+<p>The latest and greatest method of data transmission is the use of Fiber Optic cabling. These are very thin and fragile cables that utilizes lasers on both ends to transmit light through glass that runs along the cable. Fiber optic cables themselves to not suffer data-loss ‘in the cable’ itself, however the primary driver for signal strength are the end-pieces/connectors on each end of the fiber optic cable. Fiber optic cables provide both enthusiast home users, business, and large server farms the ability to transmit at a rate faster than 10 Gbps at distances that are uneconomical via copper (Ethernet).</p>
+</section>
+</section>
+<section id="devices">
+<h2>Devices<a class="headerlink" href="#devices" title="Permalink to this headline">#</a></h2>
 <section id="modem">
-<h2>Modem<a class="headerlink" href="#modem" title="Permalink to this headline">#</a></h2>
-<p>From the ISP, a cable is brought in from oustide of your home or apartment into what could be a patch panel, or simply brought in through the walls of your house.</p>
+<h3>Modem<a class="headerlink" href="#modem" title="Permalink to this headline">#</a></h3>
+<p>From the ISP, a cable is brought in from outside of your home or apartment into what could be a patch panel, or simply brought in through the walls of your house. This cable plugs into a modem regardless of ISP type (dial-up, cable, etc.) and is the physical device that communicates with your (customers) network and the ISPs.</p>
 </section>
 <section id="routers">
-<h2>Routers<a class="headerlink" href="#routers" title="Permalink to this headline">#</a></h2>
-<p>…the cable runs from the modem to the router which then takes the IP assigned by your ISP and also creates a local network for your home/apartment.</p>
+<h3>Routers<a class="headerlink" href="#routers" title="Permalink to this headline">#</a></h3>
+<p>From the modem, the cable runs to the router which then takes the IP address assigned by your ISP and also creates a local network for your home/apartment. Modern routers at times include antennas to also distribute Wi-Fi around an area, or even include other quality of life features like the capability to attach a hard-drive to your network, virtual private networks, and some include meshing capability.</p>
+<p>Today, ISPs offer modem, router, access-point combos be it free or with a rental fee</p>
+</section>
+<section id="access-point">
+<h3>Access Point<a class="headerlink" href="#access-point" title="Permalink to this headline">#</a></h3>
+<p>It is not common to purchase a dedicated device for Wi-Fi distribution, however an access point is connected to the router that is purpose built to take the ethernet signal to wireless radio frequencies. Generally routers include antennas and Wi-Fi capability with ‘dual-band’ features and ‘triple-band’ features.</p>
+<p>Wi-Fi has three common radio frequencies in use today, 2.4 GHz, 5 GHz, and 6 GHz. Routers or access-points that advertise dual-band include the 2.4 GHz and 5 GHz bands while tripe-band or ‘Wi-Fi 6’ capability means 6 GHz frequencies.</p>
+<p>To briefly touch on Wi-Fi bands, the lower the frequency, the smaller the channel width, while the higher frequency includes larger channel widths. Without diving deep into Wi-Fi frequencies, channel widths, etc. 2.4 GHz Wi-Fi provides the greatest amount of wall-penetrating ability with largest range, while 6 GHz provides the least amount of range however the greatest speed capability.</p>
+<p>Note, that Wi-Fi and access points are only a few parts of ‘the equation’ of a device receiving internet via Wi-Fi. Your device be it phone or laptop also need to have strong enough signal to send data back to the access point. Suffice to say, Wi-Fi is a two way transmission and both devices need to have the power to both receive and transmit data back and forth as you browse the internet.</p>
 </section>
 <section id="switches">
-<h2>Switches<a class="headerlink" href="#switches" title="Permalink to this headline">#</a></h2>
-<p>Switches, become an even simpler ‘type’ of router. While they may look alike when you look at the commercial versions of routers and switches. Switches connect multiple devices together on a single network.</p>
+<h3>Switches<a class="headerlink" href="#switches" title="Permalink to this headline">#</a></h3>
+<p>Switches, are in short a simpler ‘type’ of router. Most consumers or homes do not include switches as part of their home network, however in commercial spaces both routers and switches look very similar but serve very different purposes. Switches are similar to routers however they do not communicate directly to the modem, but enable additional physical connectivity on the network when connected to the router.</p>
+</section>
+</section>
+<section id="network-layering-osi">
+<h2>Network Layering (OSI)<a class="headerlink" href="#network-layering-osi" title="Permalink to this headline">#</a></h2>
+<p>A few concepts that were not covered are where all these devices fit into the networking layer model. This model is also named the Open Systems Interconnection (OSI) (Model) that describes all the functions involved in sending data over the Internet split across 7 layers; the model is an abstract conceptualization of <em>how</em> the internet works and helps people talk about network design.</p>
+<section id="layers-of-the-osi-model">
+<h3>Layers of the OSI Model<a class="headerlink" href="#layers-of-the-osi-model" title="Permalink to this headline">#</a></h3>
+<ul class="simple">
+<li><p>Layer 1: Physical Layer</p>
+<ul>
+<li><p>(internet) packets are converted into electrical, radio, or optical pulses and transmitted as bits over wires and/or radio waves.</p></li>
+</ul>
+</li>
+<li><p>Layer 2: Data Link</p>
+<ul>
+<li><p>Handles the communications between two devices on the same network. Ethernet is the most common method of achieving layer-2 communications e.g. switches</p></li>
+</ul>
+</li>
+<li><p>Layer 3: Network Layer</p>
+<ul>
+<li><p>Handles the communication between two devices across <strong>different</strong> networks. e.g. routers. Utilizes IP and ICMP protocols.</p></li>
+</ul>
+</li>
+<li><p>Layer 4: Transport Layer</p>
+<ul>
+<li><p>Provides the means of transmitting data between two endpoints. Handles the quality of service and commonly utilizes TCP and UDP protocols.</p></li>
+</ul>
+</li>
+<li><p>Layer 5: Session Layer</p>
+<ul>
+<li><p>Controls the connections between computers, however this layer can also be handled by Layer 4.</p></li>
+</ul>
+</li>
+<li><p>Layer 6: Presentation Layer</p>
+<ul>
+<li><p>Data is translated into a form of which the application can accept.</p></li>
+</ul>
+</li>
+<li><p>Layer 7: Application Layer</p>
+<ul>
+<li><p>Data is generated by and usable by a software applications. e.g. when you utilize an internet-browser or game, the application’s requests and receiving of data is translated at this layer.</p></li>
+</ul>
+</li>
+</ul>
+</section>
 </section>
 </section>
 
