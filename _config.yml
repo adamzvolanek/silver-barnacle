@@ -7,6 +7,11 @@ edit_page_button: true
 timezone: "America/Chicago"
 repository:
   url: "https://github.com/adamzvolanek/silver-barnacle/"
+  path_to_book: lectures/
+html:
+  use_repository_button: true
+  use_edit_page_button: true
+  use_issues_button: true
 launch_buttons:
   notebook_interface: "jupyterlab"
   colab_url: "https://colab.research.google.com"
