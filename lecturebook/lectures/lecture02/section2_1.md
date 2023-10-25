@@ -1,4 +1,4 @@
-# Lecture 2.1 - All the Bits and Pieces!
+# Lecture 2.1 - All the Bits and Pieces
 
 ## Relating the Computer to a Human Body
 
@@ -10,21 +10,15 @@ All computer parts are connected to each other on the motherboard. Electrical si
 
 ### Hard Drive & Brain (Subconscious)
 
-All knowledge of programs, files and data is stored on the Hard Drive. Just like the brain, it is
-sectioned off for various purposes. The hard drive stores and retrieves all of our precious
-information and programs for use by use whenever we wish. Just like our long term memories.
+All knowledge of programs, files and data is stored on the Hard Drive. Just like the brain, it is sectioned off for various purposes. The hard drive stores and retrieves all of our precious information and programs for use by use whenever we wish. Just like our long term memories.
 
 ### CPU & Spinal Cord
 
-A chip that is on the Motherboard that is responsible for processing instructions (commands)
-received from hard drive (brain). It controls every activities of the computer. Just like the spinal
-cord, it receives instructions from the brain (hard drive).
+A chip that is on the Motherboard that is responsible for processing instructions (commands) received from hard drive (brain). It controls every activities of the computer. Just like the spinal cord, it receives instructions from the brain (hard drive).
 
 ### RAM & Brain (Conscious)
 
-RAM is a holding area of files and instructions that are to be used and then forgotten about. It
-allows the computer to multi-task just as your brain’s conscious thought allows you to multi-
-task. The more RAM, the better your computer can multi-task, and the faster it will perform.
+RAM is a holding area of files and instructions that are to be used and then forgotten about. It allows the computer to multi-task just as your brain’s conscious thought allows you to multi-task. The more RAM, the better your computer can multi-task, and the faster it will perform.
 
 ### Speaker/Printer & Mouth
 
@@ -32,8 +26,7 @@ Both are output devices. They produce what the computer needs to give out.
 
 ### Mouse / Keyboard & Hands
 
-Both are input devices. They are used to send in instructions and information into and out of
-the computer.
+Both are input devices. They are used to send in instructions and information into and out of the computer.
 
 ### Microphone & Ears
 
@@ -41,13 +34,11 @@ Microphone receives sound waves and sends it into the computer for processing
 
 ### Monitor & Face
 
-This is an output device. It has a screen which it uses to display what the computer is doing or
-how it feels. Just like the human face shows different expressions.
+This is an output device. It has a screen which it uses to display what the computer is doing or how it feels. Just like the human face shows different expressions.
 
 ### System Case & Skin
 
-This gives the computer a definite shape. It defines a computer telling us more about it, how it
-responds to the conditions around. Same implies the human skin, it defines the human body.
+This gives the computer a definite shape. It defines a computer telling us more about it, how it responds to the conditions around. Same implies the human skin, it defines the human body.
 
 #### Related to the human brain
 

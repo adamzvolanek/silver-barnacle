@@ -1,30 +1,17 @@
-# Lecture 3.2 - Network Cabling and Communication
+# Lecture 3.2 - Phones' and Their Plugs
 
-## Recall Our Ports
+## Different Types of Charging Ports on Phones
 
-Specifically, lets dive into the RJ-45 or more colloquially named, Ethernet jack.
+- Micro-USB: Micro-USB is a type of USB connector that is widely used for charging and data transfer on older smartphones. It's less common on newer smartphones.
 
-## Our Phones
+- USB-C: USB-C is a newer type of USB connector that is increasingly being adopted by smartphone manufacturers. It supports faster charging speeds and higher power requirements than Micro-USB. It also supports data transfer and video output, and it's reversible.
 
-When you're home, your phone doesn't use an RJ-45 or Ethernet cable, instead it uses Wi-Fi.
+- Lightning: The lightning connector is a proprietary connector developed by Apple for their devices such as iPhones and iPads. It's a small, reversible connector that is used for charging and data transfer.
 
-### Wi-Fi - Standards
+- Wireless charging: Wireless charging technology uses an electromagnetic field to transfer energy between a charging pad and the device. It doesn't require any physical connections, the device just needs to be placed on the charging pad. It's becoming more common on newer smartphones.
 
-What Wi-Fi is, it's versions, and respective linkrates.
+## Additional Phone Communications
 
-## Ethernet Cables & Standards
+- SIM card slot: A SIM card slot is used to insert a SIM card, which is a small chip that stores information about your network subscription and allows your phone to connect to a cellular network.
 
-Very quick synopsis on what an ethernet cable looks like.
-Discuss different ethernet CAT standards. (Align with A+ Cert text)
-
-## Fiber Optic Cables & More
-
-Include mention of SFP Plugs, DAC cables, and fiber-optic cables.
-
-### World Connected
-
-Our world today continues to become more inter-connected each day as more homes, more people, and more business establish an internet precense. But how are we able to talk to our family, friends, and strangers across the globe? How can you play games with people down the street and other peers in continents like Austrailia? The sea is laid with under-sea fiber-optic cabling that can be seen [here](https://www.submarinecablemap.com/).
-
-#### Under-Sea Cables
-
-Discuss the size, length, and data transfer speeds of these cables. Include YouTube video? [Wikipedia on under-sea cables](https://en.wikipedia.org/wiki/Submarine_communications_cable)
+- NFC (Near Field Communication) is a short-range wireless technology that allows devices to communicate with each other and perform tasks such as mobile payments and data transfer.
