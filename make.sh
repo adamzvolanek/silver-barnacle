@@ -22,19 +22,19 @@ do
       echo '---------------------------'
       echo 'Jupyter Book is starting the building process'
       sleep 1
-      jupyter-book -v build lecturebook --all
+      jupyter-book -v build . --all
 
       # Publish it
       echo '---------------------------'
       echo 'GitHub Pages Import is running'
       sleep 1
-      ghp-import -n -p -b gh-pages lecturebook/_build/html
+      ghp-import -n -p -b gh-pages ./_build/html
 
       # Clean it
       echo '---------------------------'
       echo 'Jupyer-Book is cleaning up after itself'
       sleep 1
-      jupyter-book clean -a lecturebook
+      jupyter-book clean -a .
       ;;
     *)
       echo 'Options supported: -s (for setup) and -v (for verbose)'
@@ -45,10 +45,10 @@ done
 
 # If no option is selected
 # Make it
-jupyter-book build lecturebook --all
+jupyter-book build . --all
 
 # Publish it
-ghp-import -n -p -b gh-pages lecturebook/_build/html
+ghp-import -n -p -b gh-pages ./_build/html
 
 # Clean it
-jupyter-book clean -a lecturebook
+jupyter-book clean -a .
