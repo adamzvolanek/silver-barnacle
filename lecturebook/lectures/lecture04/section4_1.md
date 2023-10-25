@@ -34,4 +34,4 @@ Access is limited and provisioned by a subscribers chosen plan.
 
 ## Selecting an ISP
 
-Selecting an internet service provider depends on location, speed, features, and affordability. It is very common for areas with multiple ISPs, regardless of tier, to have multiple offers to remain competitive with each other. Take time to research all of the available ISPs in your region using the [Federal Communications Commission](https://broadbandmap.fcc.gov/home#/) website. You can actually use the same site to look at coverage of cell-phone providers!
+Selecting an internet service provider depends on location, speed, features, and affordability. It is very common for areas with multiple ISPs, regardless of tier, to have multiple offers to remain competitive with each other. Take time to research all of the available ISPs in your region using the [Federal Communications Commission](https://broadbandmap.fcc.gov/home#/) site. You can actually use the same site to look at coverage of cell-phone providers!

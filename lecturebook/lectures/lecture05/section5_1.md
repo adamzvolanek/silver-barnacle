@@ -2,7 +2,7 @@
 
 When we use our computers, we have to login by putting in a PIN, password, or pattern, and we are then able to begin browsing the web, edit videos and photos, create art, write papers, or create an excel spreadsheet. This is all enabled to run on the [hardware](../hardware) of your computer by the operating system. It is the 'layer' in-between the electrical signals and what you see. Translating your actions (commands) to what the computer interprets, computes, and displays in-front of you.
 
-Within this section, we will scratch the basic surface of Linux, MacOS, Windows, and ChromeOS and outline differences and benefits to each.
+Within this section, we will scratch the basic surface of Linux, macOS, Windows, and ChromeOS and outline differences and benefits to each.
 
 ## Nerdy Linux
 
@@ -16,7 +16,7 @@ Some common Linux distributions are:
 - Fedora
 - Red Hat Enterprise Linux
 
-The first four options are available to you to try for free, however be warned, they operate very differently from what you may be used to with ChromeOS, MacOS, and/or Windows. Red Hat Enterprise Linux, or RHEL for short, is a common Linux distribution used in industry. Primarily due to its stability, security patching, and support.
+The first four options are available to you to try for free, however be warned, they operate very differently from what you may be used to with ChromeOS, macOS, and/or Windows. Red Hat Enterprise Linux, or RHEL for short, is a common Linux distribution used in industry. Primarily due to its stability, security patching, and support.
 
 ### Linux Benefits
 
@@ -53,18 +53,18 @@ What is ChromiumOS, also known as ChromeOS? It is an operating system made by Go
 
 While ChromeOS is limiting compared to the previously mentioned operating systems, it is also well maintained by the Google Software Engineers. ChromeOS on purpose is a "light-weight" operating system that can help everyone afford less-expensive hardware to access all of the internet and Googles suite of services. It can prove easy to use, argued to be more secure (than Windows), improved battery life (due to it's lightweight and low hardware requirements), and can help extend the life of older hardware.
 
-## MacOS
+## macOS
 
-Those that are familiar with Apple, will know that they sell MacBooks, iPhones, and a variety of other devices. MacOS is actually more similar to Linux (Distributions) than Windows is to MacOS! MacOS is a unix-based operating system and Apple's own engineers do a fantastic job of making it  both appear user friendly, but function in a pragmatic fashion. Apple's design language carries over across many of their operating systems: iPad OS, iOS, watchOS, and tvOS to name a couple. MacOS is the 2nd most popular operating system behind Windows however its features, capabilities, and ease of use continues to grow as we make our way down the lost of operating systems.
+Those that are familiar with Apple, will know that they sell MacBooks, iPhones, and a variety of other devices. macOS is actually more similar to Linux (Distributions) than Windows is to macOS! macOS is a unix-based operating system and Apple's own engineers do a fantastic job of making it  both appear user friendly, but function in a pragmatic fashion. Apple's design language carries over across many of their operating systems: iPad OS, iOS, watchOS, and tvOS to name a couple. macOS is the 2nd most popular operating system behind Windows however its features, capabilities, and ease of use continues to grow as we make our way down the lost of operating systems.
 
-A very good website outlining the various differences including appearance of MacOS can be found [here](https://setapp.com/how-to/full-list-of-all-macos-versions).
+A very good site outlining the various differences including appearance of macOS can be found [here](https://setapp.com/how-to/full-list-of-all-macOS-versions).
 
-### MacOS Benefits
+### macOS Benefits
 
-There are many benefits to list for the use of MacOS, however there continues to be an age-old debate between superiority of Windows vs. MacOS. Without siding one direction or another, macOS does a much better job of a few features that Windows and Linux (without extensive modifications and customizations); for users within the Apple ecosystem, that is to say have an iPhone, Watch, or iPad, all of the Apple devices integrate and sync seamlessly with macOS. File drop between macOS and mobile devices is seamless, password/authentication can handled between the iPhone and MacOS with a seamless handoff, and in general MacOS has much better battery life (efficient) management compared to Windows.
+There are many benefits to list for the use of macOS, however there continues to be an age-old debate between superiority of Windows vs. macOS. Without siding one direction or another, macOS does a much better job of a few features that Windows and Linux (without extensive modifications and customizations); for users within the Apple ecosystem, that is to say have an iPhone, Watch, or iPad, all of the Apple devices integrate and sync seamlessly with macOS. File drop between macOS and mobile devices is seamless, password/authentication can handled between the iPhone and macOS with a seamless handoff, and in general macOS has much better battery life (efficient) management compared to Windows.
 
 ## Windows
 
-Lastly, we arrive to Windows. The most prevalent operating system that can be found at home, at industry, at a machine shop, or on laptops. Windows is the most versatile operating system with a vast array of supported programs, devices, and standards. For the sake of the write-up, Windows takes a blend of customization and power-features that are standard on Linux with the user-friendliness and easy to use interface of MacOS. An egregious generalization, however the user-base of Windows is too vast and established for Windows to _not_ be supported by various applications, cyber-security patches, and the newest hardware.
+Lastly, we arrive to Windows. The most prevalent operating system that can be found at home, at industry, at a machine shop, or on laptops. Windows is the most versatile operating system with a vast array of supported programs, devices, and standards. For the sake of the write-up, Windows takes a blend of customization and power-features that are standard on Linux with the user-friendliness and easy to use interface of macOS. An egregious generalization, however the user base of Windows is too vast and established for Windows to _not_ be supported by various applications, cyber-security patches, and the newest hardware.
 
-Similar to mac, a good website to scroll through to see and read about the evolution of Microsoft Windows can be found [here](https://softwarekeep.com/blog/history-of-windows-operating-system).
+Similar to mac, a good site to scroll through to see and read about the evolution of Microsoft Windows can be found [here](https://softwarekeep.com/blog/history-of-windows-operating-system).
