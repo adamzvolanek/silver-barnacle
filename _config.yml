@@ -16,3 +16,6 @@ exclude:
   - LICENSE
   - README.md
   - make.sh
+header_pages:
+  - index.md
+  - example.md
