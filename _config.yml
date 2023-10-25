@@ -2,7 +2,8 @@
 # in _config.yml
 title: "Introduction to Computing 101"
 author: "Adam Zvolanek"
-toc: true
+toc:
+  include: ["_toc.yml"]
 post_search: true
 edit_page_button: true
 timezone: "America/Chicago"
@@ -21,9 +22,3 @@ exclude:
   - LICENSE
   - README.md
   - make.sh
-toc:
- min_level: 1
- max_level: 5
- list_class: toc
- list_class: toc__list
- sublist_class: toc__sublist
