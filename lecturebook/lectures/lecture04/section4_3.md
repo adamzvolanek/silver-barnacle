@@ -61,13 +61,13 @@ A few concepts that were not covered are where all these devices fit into the ne
 ### Layers of the OSI Model
 
 - Layer 1: Physical Layer
-  - (Internet) packets are converted into electrical, radio, or optical pulses and transmitted as bits over wires and/or radio waves.
+  - (internet) packets are converted into electrical, radio, or optical pulses and transmitted as bits over wires and/or radio waves.
 - Layer 2: Data Link
   - Handles the communications between two devices on the same network. Ethernet is the most common method of achieving layer-2 communications e.g. switches
 - Layer 3: Network Layer
   - Handles the communication between two devices across **different** networks. e.g. routers. Utilizes IP and ICMP protocols.
 - Layer 4: Transport Layer
-  - Provides the means of transmitting data between two end-points. Handles the quality of service and commonly utilizes TCP and UDP protocols.
+  - Provides the means of transmitting data between two endpoints. Handles the quality of service and commonly utilizes TCP and UDP protocols.
 - Layer 5: Session Layer
   - Controls the connections between computers, however this layer can also be handled by Layer 4.
 - Layer 6: Presentation Layer
