@@ -2,8 +2,6 @@
 # in _config.yml
 title: "Introduction to Computing 101"
 author: "Adam Zvolanek"
-toc:
-  include: ["_toc.yml"]
 post_search: true
 edit_page_button: true
 timezone: "America/Chicago"
@@ -14,10 +12,6 @@ launch_buttons:
   colab_url: "https://colab.research.google.com"
 execute:
   execute_notebooks: "off"
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-toc
 exclude:
   - LICENSE
   - README.md
