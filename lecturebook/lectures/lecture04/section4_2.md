@@ -6,7 +6,7 @@ Specifically, let's dive into the RJ-45 or more colloquially named, Ethernet jac
 
 ## Our Phones
 
-When you're home, your phone doesn't use an RJ-45 or Ethernet cable, instead it uses Wi-Fi. But if you want to learn more about your phones ports, you can look [here](../lecture03/section3_2#different-types-of-charging-ports-on-phones) in lecture 3.2. 
+When you're home, your phone doesn't use an RJ-45 or Ethernet cable, instead it uses Wi-Fi. But if you want to learn more about your phones ports, you can look [here](../lecture03/section3_2#different-types-of-charging-ports-on-phones) in lecture 3.2.
 
 ### Wi-Fi - Standards
 

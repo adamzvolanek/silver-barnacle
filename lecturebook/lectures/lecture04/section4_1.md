@@ -1,4 +1,4 @@
-# Lecture 4.1 - The Providers of the Internets!
+# Lecture 4.1 - The Providers of the internets!
 
 Two primary types of ISPs include cable and DSL (digital subscriber line) and traditionally run Category [(Ethernet)](./section4_2#ethernet-cables--standards) cables and/or coaxial cables. However the population and emergence of [fiber-optic cables](./section4_2#fiber-optic-cables--more).
 
@@ -6,7 +6,7 @@ An older but may continue to be present in remote or rural areas include dial-up
 
 ## Local to St. Louis, Missouri
 
-Currently in St. Louis we have more popular Internet Service Providers (ISPs) including Charter Communication (Spectrum), i3 Broadband, Gateway Fiber, AT&T, and many more. These deliver internet to the home via a network of cables run underground across the St. Louis region. 
+Currently in St. Louis we have more popular internet Service Providers (ISPs) including Charter Communication (Spectrum), i3 Broadband, Gateway Fiber, AT&T, and many more. These deliver internet to the home via a network of cables run underground across the St. Louis region.
 
 Other large ISPs include Comcast and Verizon.
 
@@ -20,7 +20,7 @@ In short, ISP's is the company that provides internet to your home and businesse
 
 Some ISPs also include or bundle TV and phone services as part of their internet package since it relies on the same infrastructure.
 
-You can dig deep into ISP's, either inter-connects, network, etc. on the Wikipedia page [here](https://en.wikipedia.org/wiki/Internet_service_provider).
+You can dig deep into ISP's, either inter-connects, network, etc. on the Wikipedia page [here](https://en.wikipedia.org/wiki/internet_service_provider).
 
 ### Organization of ISPs
 
@@ -28,7 +28,7 @@ ISPs are split into different tiers: Tier 1, 2, and 3. The largest difference be
 
 ### What are the ISPs responsible for
 
-ISPs are responsible for making sure you can access the Internet, routing Internet traffic, resolving domain names, and maintaining the network infrastructure that makes Internet access possible.
+ISPs are responsible for making sure you can access the internet, routing internet traffic, resolving domain names, and maintaining the network infrastructure that makes internet access possible.
 
 Access is limited and provisioned by a subscribers chosen plan.
 
