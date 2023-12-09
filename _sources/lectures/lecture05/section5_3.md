@@ -82,7 +82,7 @@ The bottom of the Task Manager window provides graphical representations of CPU 
 
 Click on the gear icon in the top-right corner to access additional system information, including the version of ChromeOS, hardware details, and more.
 
-#### (MacOS) Activity Monitor
+#### (macOS) Activity Monitor
 
 1. Open Activity Monitor:
 
