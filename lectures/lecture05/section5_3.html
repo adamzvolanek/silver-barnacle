@@ -3,13 +3,13 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Lecture 5.3 - Building Good Habits &#8212; Introduction to Computing 101</title>
+    <title>Lecture 5.3 - Running Programs &#8212; Introduction to Computing 101</title>
   
   
   
@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../../_static/styles/theme.css?digest=c5ced968eda925caa686" rel="stylesheet" />
-<link href="../../_static/styles/bootstrap.css?digest=c5ced968eda925caa686" rel="stylesheet" />
-<link href="../../_static/styles/pydata-sphinx-theme.css?digest=c5ced968eda925caa686" rel="stylesheet" />
+  <link href="../../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
 
   
-  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=c5ced968eda925caa686" rel="stylesheet" />
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,9 +38,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=c5ced968eda925caa686" />
-<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=c5ced968eda925caa686" />
-  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=c5ced968eda925caa686"></script>
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -139,6 +139,7 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
   
 
 <a class="navbar-brand logo" href="../../index.html">
@@ -203,7 +204,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2 current active has-children"><a class="reference internal" href="index.html">Lecture 5 - Software</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="section5_1.html">Lecture 5.1 - Operating Systems</a></li>
 <li class="toctree-l3"><a class="reference internal" href="section5_2.html">Lecture 5.2 - 01100010 01101001 01101110 01100001 01110010 01111001</a></li>
-<li class="toctree-l3 current active"><a class="current reference internal" href="#">Lecture 5.3 - Building Good Habits</a></li>
+<li class="toctree-l3 current active"><a class="current reference internal" href="#">Lecture 5.3 - Running Programs</a></li>
 </ul>
 </li>
 </ul>
@@ -452,6 +453,7 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
@@ -461,6 +463,7 @@ document.write(`
   </button>
 `);
 </script>
+
 
 <script>
 document.write(`
@@ -482,7 +485,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Lecture 5.3 - Building Good Habits</h1>
+    <h1>Lecture 5.3 - Running Programs</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -492,7 +495,16 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-we-do">What We Do</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-what-is-going-on">Understanding what is going on</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#using-monitoring-programs">Using Monitoring Programs</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#windows-task-manager">(Windows) Task Manager</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#chromeos-task-manager">(ChromeOS) Task Manager</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#macos-activity-monitor">(MacOS) Activity Monitor</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#linux-ubuntu-system-monitor">(Linux/Ubuntu) System Monitor</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -504,11 +516,160 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="lecture-5-3-building-good-habits">
-<h1>Lecture 5.3 - Building Good Habits<a class="headerlink" href="#lecture-5-3-building-good-habits" title="Permalink to this heading">#</a></h1>
-<section id="what-we-do">
-<h2>What We Do<a class="headerlink" href="#what-we-do" title="Permalink to this heading">#</a></h2>
-<p>Discuss good habits, shortcuts and the like</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="lecture-5-3-running-programs">
+<h1>Lecture 5.3 - Running Programs<a class="headerlink" href="#lecture-5-3-running-programs" title="Permalink to this heading">#</a></h1>
+<section id="understanding-what-is-going-on">
+<h2>Understanding what is going on<a class="headerlink" href="#understanding-what-is-going-on" title="Permalink to this heading">#</a></h2>
+<p>When we start our computers, they all complete a set of procedures to boot into the Operating System. Some are faster than others, while others you can watch the spinning loading circle for a long time.</p>
+<p>Similar to start up, when you ask your computer to open Chrome, Firefox, or Edge, you’ve asked it to “Run {Program}”, whichever that may be. The computer goes through the steps mentioned on the previous <span class="xref myst">section (5.2)</span> and performs these functions as fast as it can. It is not critical to understand the specifics of the command, or just where and how the binary is interpreted, but rather what part of your computer is working; conversely, what part of the computer you are waiting on.</p>
+<section id="using-monitoring-programs">
+<h3>Using Monitoring Programs<a class="headerlink" href="#using-monitoring-programs" title="Permalink to this heading">#</a></h3>
+<p>Every operating system has its various flavors of (hardware) monitoring tools, using these can help identify the <strong>why</strong> your computer is slowing down or taking its time when you open a program.</p>
+<p>Some common reasons for slowdown that are universal among computers:</p>
+<ul class="simple">
+<li><p>High CPU Usage: A process or application may be using too much CPU. Identify and close resource-intensive tasks.</p></li>
+<li><p>High Memory Usage: If your RAM is nearly full, your computer may slow down. Identify memory-hungry processes and consider closing unnecessary applications.</p></li>
+<li><p>High Disk Usage: Check for processes causing high disk activity, such as background tasks or malfunctioning applications.</p></li>
+<li><p>Network Issues: If your internet connection is slow, check the Network tab for high network usage.</p></li>
+</ul>
+<p>Below are the three most common system monitoring programs, that give a brief overview of how to open and use them. Do not close programs or services you are not familiar with!</p>
+<section id="windows-task-manager">
+<h4>(Windows) Task Manager<a class="headerlink" href="#windows-task-manager" title="Permalink to this heading">#</a></h4>
+<p>Here’s a summary of how to use Task Manager to monitor resources and identify potential reasons for a slow computer:</p>
+<ol class="arabic simple">
+<li><p>Open Task Manager:</p></li>
+</ol>
+<p>Right-click on the taskbar at the bottom of your screen and select “Task Manager” or press Ctrl + Shift + Esc to open it directly.</p>
+<ol class="arabic simple" start="2">
+<li><p>Overview Tab:</p></li>
+</ol>
+<p>The “Processes” tab provides an overview of the running applications and background processes. You can see the CPU, Memory, Disk, and Network usage.</p>
+<ol class="arabic simple" start="3">
+<li><p>Identify Resource Usage:</p></li>
+</ol>
+<p>Look at the columns in the “Processes” tab to identify which processes are using the most CPU, Memory, Disk, or Network resources.
+High resource usage by a specific application or process may be a reason for your computer’s slowdown.</p>
+<ol class="arabic simple" start="4">
+<li><p>Performance Tab:</p></li>
+</ol>
+<p>The “Performance” tab provides a graphical representation of CPU, Memory, Disk, and Network usage over time. You can see if any of these resources are consistently high.</p>
+<ol class="arabic simple" start="5">
+<li><p>Startup Tab:</p></li>
+</ol>
+<p>Check the “Startup” tab to see which programs launch when your computer starts. Disable unnecessary startup programs to improve boot times.</p>
+<ol class="arabic simple" start="6">
+<li><p>App History Tab:</p></li>
+</ol>
+<p>The “App History” tab shows resource usage by individual applications over time. This can help identify resource-hungry apps.</p>
+<ol class="arabic simple" start="7">
+<li><p>Services Tab:</p></li>
+</ol>
+<p>The “Services” tab lists Windows services. Disabling unnecessary services can free up system resources.</p>
+</section>
+<section id="chromeos-task-manager">
+<h4>(ChromeOS) Task Manager<a class="headerlink" href="#chromeos-task-manager" title="Permalink to this heading">#</a></h4>
+<ol class="arabic simple">
+<li><p>Open Task Manager:</p></li>
+</ol>
+<p>Press Shift + Esc or right-click on the system tray in the bottom-right corner of the screen and select “Task Manager.”</p>
+<ol class="arabic simple" start="2">
+<li><p>Overview:</p></li>
+</ol>
+<p>The Task Manager window will open, providing an overview of system resources, including CPU usage, Memory usage, and Network activity.</p>
+<ol class="arabic simple" start="3">
+<li><p>Processes Tab:</p></li>
+</ol>
+<p>The “Processes” tab displays a list of all running processes on your Chromebook. You can see details such as the process name, memory footprint, and CPU usage.</p>
+<ol class="arabic simple" start="4">
+<li><p>Extensions and Apps:</p></li>
+</ol>
+<p>The Task Manager also shows extensions and apps that are currently running, making it easy to identify resource-intensive extensions or applications.</p>
+<ol class="arabic simple" start="5">
+<li><p>End Processes:</p></li>
+</ol>
+<p>You can select a process or an extension from the list and click the “End Process” button to terminate it.</p>
+<ol class="arabic simple" start="6">
+<li><p>Resource Usage Graphs:</p></li>
+</ol>
+<p>The bottom of the Task Manager window provides graphical representations of CPU and memory usage over time.</p>
+<ol class="arabic simple" start="7">
+<li><p>System Information:</p></li>
+</ol>
+<p>Click on the gear icon in the top-right corner to access additional system information, including the version of ChromeOS, hardware details, and more.</p>
+</section>
+<section id="macos-activity-monitor">
+<h4>(MacOS) Activity Monitor<a class="headerlink" href="#macos-activity-monitor" title="Permalink to this heading">#</a></h4>
+<ol class="arabic simple">
+<li><p>Open Activity Monitor:</p></li>
+</ol>
+<p>You can find Activity Monitor in the “Utilities” folder within the “Applications” folder, or you can use Spotlight by pressing Command + Space and typing “Activity Monitor.”</p>
+<ol class="arabic simple" start="2">
+<li><p>Overview:</p></li>
+</ol>
+<p>The main window of Activity Monitor provides an overview of several key metrics, including CPU usage, Memory usage, Energy impact, Disk activity, and Network activity.</p>
+<ol class="arabic simple" start="3">
+<li><p>Processes Tab:</p></li>
+</ol>
+<p>The “Processes” tab displays a list of all the running processes on your Mac. You can see information such as CPU usage, Memory usage, and more.</p>
+<p>Click on the column headers to sort processes based on various criteria.</p>
+<ol class="arabic simple" start="4">
+<li><p>CPU, Memory, Energy, Disk, and Network Tabs:</p></li>
+</ol>
+<p>Each of these tabs provides more detailed information on resource usage. For example, the “CPU” tab shows which processes are using the most CPU, and the “Memory” tab displays information about memory usage.</p>
+<ol class="arabic simple" start="5">
+<li><p>Search and Filter:</p></li>
+</ol>
+<p>You can search for specific processes using the search bar or use the filter options to narrow down the displayed processes.</p>
+<ol class="arabic simple" start="6">
+<li><p>Quit or Force Quit Applications:</p></li>
+</ol>
+<p>To quit an application, select it in the list and click the “X” button in the upper-left corner. If an application is unresponsive, you can force quit it by selecting it and clicking the “Force Quit” button.</p>
+<ol class="arabic simple" start="7">
+<li><p>System Impact:</p></li>
+</ol>
+<p>The “Energy” tab shows the energy impact of applications, helping you identify which apps are consuming more power.</p>
+</section>
+<section id="linux-ubuntu-system-monitor">
+<h4>(Linux/Ubuntu) System Monitor<a class="headerlink" href="#linux-ubuntu-system-monitor" title="Permalink to this heading">#</a></h4>
+<ol class="arabic simple">
+<li><p>Open System Monitor:</p></li>
+</ol>
+<p>You can open the System Monitor by pressing Ctrl + Alt + Del or Ctrl + Shift + Esc. Alternatively, you can use the application menu to search for “System Monitor” and open it.</p>
+<ol class="arabic simple" start="2">
+<li><p>Overview:</p></li>
+</ol>
+<p>The main window of System Monitor provides an overview of system resources, including CPU usage, Memory usage, and Network activity.</p>
+<ol class="arabic simple" start="3">
+<li><p>Processes Tab:</p></li>
+</ol>
+<p>The “Processes” tab displays a list of all running processes on your system. You can see details such as the process name, ID, CPU usage, Memory usage, and more.</p>
+<p>Clicking on the column headers allows you to sort processes based on different criteria.</p>
+<ol class="arabic simple" start="4">
+<li><p>Resources Tab:</p></li>
+</ol>
+<p>The “Resources” tab provides graphical representations of CPU usage, Memory usage, Swap usage, and Network activity over time.</p>
+<ol class="arabic simple" start="5">
+<li><p>File Systems Tab:</p></li>
+</ol>
+<p>The “File Systems” tab shows information about mounted file systems, including available space, used space, and the total size.</p>
+<ol class="arabic simple" start="6">
+<li><p>Mount Points Tab:</p></li>
+</ol>
+<p>The “Mount Points” tab provides details about the mounted partitions on your system.</p>
+<ol class="arabic simple" start="7">
+<li><p>Network Tab:</p></li>
+</ol>
+<p>The “Network” tab displays information about network connections, including incoming and outgoing traffic.</p>
+<ol class="arabic simple" start="8">
+<li><p>File Systems and Network Tabs:</p></li>
+</ol>
+<p>The “File Systems” and “Network” tabs provide additional information about storage and network activity.</p>
+<ol class="arabic simple" start="9">
+<li><p>End Processes:</p></li>
+</ol>
+<p>You can select a process from the list and click the “End Process” button to terminate a specific process.</p>
+</section>
+</section>
 </section>
 </section>
 
@@ -540,7 +701,7 @@ document.write(`
               
               
                 <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+                  
 <div class="prev-next-area">
     <a class="left-prev"
        href="section5_2.html"
@@ -575,7 +736,16 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-we-do">What We Do</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-what-is-going-on">Understanding what is going on</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#using-monitoring-programs">Using Monitoring Programs</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#windows-task-manager">(Windows) Task Manager</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#chromeos-task-manager">(ChromeOS) Task Manager</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#macos-activity-monitor">(MacOS) Activity Monitor</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#linux-ubuntu-system-monitor">(Linux/Ubuntu) System Monitor</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
@@ -597,6 +767,7 @@ By Adam Zvolanek
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
       © Copyright 2022.
@@ -623,8 +794,8 @@ By Adam Zvolanek
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../../_static/scripts/bootstrap.js?digest=c5ced968eda925caa686"></script>
-<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=c5ced968eda925caa686"></script>
+  <script src="../../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
 
   <footer class="bd-footer">
   </footer>

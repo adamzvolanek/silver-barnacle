@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../../_static/styles/theme.css?digest=c5ced968eda925caa686" rel="stylesheet" />
-<link href="../../_static/styles/bootstrap.css?digest=c5ced968eda925caa686" rel="stylesheet" />
-<link href="../../_static/styles/pydata-sphinx-theme.css?digest=c5ced968eda925caa686" rel="stylesheet" />
+  <link href="../../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
 
   
-  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=c5ced968eda925caa686" rel="stylesheet" />
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,9 +38,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=c5ced968eda925caa686" />
-<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=c5ced968eda925caa686" />
-  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=c5ced968eda925caa686"></script>
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -65,7 +65,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'lectures/lecture05/section5_2';</script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Lecture 5.3 - Building Good Habits" href="section5_3.html" />
+    <link rel="next" title="Lecture 5.3 - Running Programs" href="section5_3.html" />
     <link rel="prev" title="Lecture 5.1 - Operating Systems" href="section5_1.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -139,6 +139,7 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
   
 
 <a class="navbar-brand logo" href="../../index.html">
@@ -203,7 +204,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2 current active has-children"><a class="reference internal" href="index.html">Lecture 5 - Software</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="section5_1.html">Lecture 5.1 - Operating Systems</a></li>
 <li class="toctree-l3 current active"><a class="current reference internal" href="#">Lecture 5.2 - 01100010 01101001 01101110 01100001 01110010 01111001</a></li>
-<li class="toctree-l3"><a class="reference internal" href="section5_3.html">Lecture 5.3 - Building Good Habits</a></li>
+<li class="toctree-l3"><a class="reference internal" href="section5_3.html">Lecture 5.3 - Running Programs</a></li>
 </ul>
 </li>
 </ul>
@@ -452,6 +453,7 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
@@ -461,6 +463,7 @@ document.write(`
   </button>
 `);
 </script>
+
 
 <script>
 document.write(`
@@ -507,23 +510,31 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="lecture-5-2-01100010-01101001-01101110-01100001-01110010-01111001">
 <h1>Lecture 5.2 - 01100010 01101001 01101110 01100001 01110010 01111001<a class="headerlink" href="#lecture-5-2-01100010-01101001-01101110-01100001-01110010-01111001" title="Permalink to this heading">#</a></h1>
+<p>A very simplified page on how technology all communicates.</p>
 <section id="how-do-computers-talk">
 <h2>How do computers talk<a class="headerlink" href="#how-do-computers-talk" title="Permalink to this heading">#</a></h2>
-<p>Binary is the language that computer processors use to perform instructions. It is a two symbol system, named binary, comprised of two bits: 0 and 1.</p>
-<p>Below you can see how data storage can be showed with this kind of hierarchical tree.
-8 bits = 1 byte
-1024 bytes = 1 kilobyte
-1024 K = 1 Megabyte = 1,048,576 bytes
-1024 Mb = 1 Gigabyte = 10,73,741,824 bytes
-1024 Gb = 1 Terabyte = 1,099,511,627,776 bytes
-1024 Tb = 1 Petabyte = 1,125,899,906,842,624 bytes
-1024 Pb = 1 Exabyte = 1,152,921,504,606,846,976 bytes
-1024 Eb = 1 Zettabyte = 1,180,591,620,717,411,303,424 bytes
-1024 Zb = 1 Yottabyte = 1,208,925,819,614,629,174,706,176 bytes</p>
+<p>Binary is the language that computer processors use to perform instructions.</p>
+<p>In everyday life, we typically use a number system called decimal, which is based on 10 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. Computers, on the other hand, use a different number system called binary, which is based on only two digits: 0 and 1.</p>
+<p>Imagine you have a row of switches, and each switch can be either on (1) or off (0). Each switch represents a single binary digit, commonly called a “bit.” Now, if you have multiple switches in a row, you can create different combinations of on and off to represent numbers.</p>
+<p>Binary is a number system based on 0s and 1s, where each digit represents a power of 2, and it’s the fundamental language that computers use to process and store information.</p>
+<p>Below you can see how data storage can be visualized with this kind of hierarchical tree.</p>
+<p>8 bits = 1 byte</p>
+<p>1024 bytes = 1 kilobyte</p>
+<p>1024 K = 1 Megabyte = 1,048,576 bytes</p>
+<p>1024 Mb = 1 Gigabyte = 10,73,741,824 bytes</p>
+<p>1024 Gb = 1 Terabyte = 1,099,511,627,776 bytes</p>
+<p>1024 Tb = 1 Petabyte = 1,125,899,906,842,624 bytes</p>
+<p>1024 Pb = 1 Exabyte = 1,152,921,504,606,846,976 bytes</p>
+<p>1024 Eb = 1 Zettabyte = 1,180,591,620,717,411,303,424 bytes</p>
+<p>1024 Zb = 1 Yottabyte = 1,208,925,819,614,629,174,706,176 bytes</p>
 </section>
 <section id="where-does-it-go">
 <h2>Where does it go?<a class="headerlink" href="#where-does-it-go" title="Permalink to this heading">#</a></h2>
-<p>A RAM memory chip stores binary data through billions of capacitors.</p>
+<p>The execution of a command on a computer involves several stages, and the command travels through various parts of the computer system that were learned in <a class="reference internal" href="../lecture02/index.html"><span class="doc std std-doc">lecture 2</span></a> and <a class="reference internal" href="../lecture03/index.html"><span class="doc std std-doc">lecture 3</span></a>.</p>
+<p>First you have the input where the user actions the computer through an input device, such as a keyboard or mouse.</p>
+<p>The input is processed by the computer’s input devices and converted into electrical signals or binary data that the computer can understand. At which point the <span class="xref myst">CPU</span> or perhaps in this example the “brain” of the computer is responsible for executing instructions. The command is sent to the CPU for processing.</p>
+<p>The binary representation of the command and associated data is stored in the computer’s memory <span class="xref myst">(RAM)</span>. The CPU then decodes the binary instructions and performs the necessary calculations or operations as specified by the command. This may involve manipulating data in registers, performing arithmetic or logical operations, and storing the results.</p>
+<p>Lastly, if the command involves updating data, the CPU writes the results back to the computer’s memory. Any output may be sent to output devices such as a display (monitor) or printer.</p>
 </section>
 </section>
 
@@ -555,7 +566,7 @@ document.write(`
               
               
                 <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+                  
 <div class="prev-next-area">
     <a class="left-prev"
        href="section5_1.html"
@@ -571,7 +582,7 @@ document.write(`
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Lecture 5.3 - Building Good Habits</p>
+        <p class="prev-next-title">Lecture 5.3 - Running Programs</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -613,6 +624,7 @@ By Adam Zvolanek
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
       © Copyright 2022.
@@ -639,8 +651,8 @@ By Adam Zvolanek
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../../_static/scripts/bootstrap.js?digest=c5ced968eda925caa686"></script>
-<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=c5ced968eda925caa686"></script>
+  <script src="../../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
 
   <footer class="bd-footer">
   </footer>
