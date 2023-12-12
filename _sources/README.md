@@ -1,6 +1,6 @@
 # Computing Course 101 <sub>(Codenamed: silver-barnacle)</sub>
 
-[![Lint Code Base](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/super-linter.yml/badge.svg?branch=main)](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/super-linter.yml)[![pages-build-deployment](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/pages/pages-build-deployment)
+[![Lint Code Base](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/super-linter.yml/badge.svg?branch=main)](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/super-linter.yml) [![pages-build-deployment](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adamzvolanek/silver-barnacle/actions/workflows/pages/pages-build-deployment)
 
 ## Description
 
